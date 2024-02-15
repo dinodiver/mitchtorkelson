@@ -21,16 +21,17 @@ August 2015 – May 2019
 Minor: Environmental Science
 
 ### Study Abroad
-**San Cristóbal Island, Galapagos Archipelago**  
+**Universidad San Francisco de Quito-Galápagos**   
+San Cristóbal Island, Galapagos Archipelago  
 August 2018 – December 2018  
-Focus: Marine Biology
+Focus: Marine Biology  
 
 ## Professional
 
 ### Geospatial Analyst
-**GeoNXS Solutions LLC (Contract)**  
-Remote, Wilmington, North Carolina, United States  
-2023 - Present (1 yr)
+**GeoNXS Solutions LLC**  
+Wilmington, North Carolina  
+2023 - Present (1 yr)  
 
 - Specialized in utilizing ESRI ArcGIS Pro for digitization of land features, spatial analysis, and map generation.
 - Excelled in collecting, cleaning, and analyzing geographic data to derive valuable insights, supporting decision-making processes in marine conservation.
@@ -38,8 +39,8 @@ Remote, Wilmington, North Carolina, United States
 
 ### Graduate Research Assistant
 **University of North Carolina Wilmington**  
-On-site, Wilmington, North Carolina, United States  
-Aug 2022 - Present (1 yr 7 mos)
+Wilmington, North Carolina  
+Aug 2022 - Present (1 yr 7 mos)  
 
 - Conducted comparative study on the accuracy of HawkEye ocean color imagery against in-situ measurements in the Cape Fear River Estuary.
 - Played a key role in collecting 3D sea-truthing data and analyzing high-resolution ocean color imagery.
@@ -47,7 +48,7 @@ Aug 2022 - Present (1 yr 7 mos)
 
 ### Divemaster
 **Aquatic Safaris**  
-Wilmington, North Carolina, United States  
+Wilmington, North Carolina  
 Feb 2022 - Aug 2022 (7 mos)
 
 - Led divers on explorations of wrecks, ledges, and reefs, ensuring safety and providing exceptional customer service.
@@ -84,3 +85,5 @@ May 2019 - Aug 2019 (4 mos)
 
 - Collaborated in mapping coastal United States salt marsh ecosystems, utilizing drone photography and remote sensing software for vegetation coverage analysis.
 - Skills: Drone Photography, Interdisciplinary Collaboration, Geographic Information Systems (GIS), Small Boat Operations, Remote Sensing.
+
+
