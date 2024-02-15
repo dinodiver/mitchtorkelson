@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Experience
+title: Education and Professional Experience
 permalink: /experience/
 ---
-
-# Education and Professional Experience
 
 I've had the privilege of working in various roles that have honed my skills in geospatial analysis, marine conservation, diving instruction, and more. Below is an overview of my recent job history.
 
