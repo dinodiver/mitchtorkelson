@@ -30,7 +30,7 @@ linkedin_username: mitch-torkelson
 github_username:  dinodiver
 
 # Build settings
-theme: minima
+theme: flexible
 plugins:
   - jekyll-feed
 
