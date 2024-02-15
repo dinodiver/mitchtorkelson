@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Education and Professional Experience
+title: Experience
 permalink: /experience/
 ---
 
