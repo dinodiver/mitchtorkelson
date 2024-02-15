@@ -24,7 +24,7 @@ description: >-
   Welcome to my portfolio site. Here, I showcase my academic achievements,
   professional work, and ongoing projects. Dive in to learn more about my
   journey and expertise.
-baseurl: "mitchtorkportfolio" # the subpath of your site, e.g. /blog
+baseurl: "/mitchtorkportfolio" # the subpath of your site, e.g. /blog
 url: "https://dinodiver.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: mitch-torkelson
 github_username:  dinodiver
