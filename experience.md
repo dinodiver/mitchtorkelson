@@ -14,13 +14,13 @@ Wilmington, North Carolina
 August 2022 – Present  
 Focus: Ocean Color Remote Sensing
 
-### Bachelor of Science in Biology
+### B.S. Biology
 **Creighton University**  
 Omaha, Nebraska  
 August 2015 – May 2019  
 Minor: Environmental Science
 
-### Study Abroad in Marine Biology
+### Study Abroad
 **San Cristóbal Island, Galapagos Archipelago**  
 August 2018 – December 2018  
 Focus: Marine Biology
