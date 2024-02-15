@@ -13,7 +13,7 @@ I'm Mitch Torkelson, a passionate developer and designer dedicated to building i
 
 ## About Me
 
-Learn more [about me](/about) and my journey in the tech industry.
+Learn more [about me](/mitchtorkportfolio//about) and my journey in the tech industry.
 
 ## Contact
 

@@ -1,14 +1,33 @@
 ---
 layout: page
-title: My Experience
+title: Experience
 permalink: /experience/
 ---
 
-# Work History and Experience
+# Education and Professional Experience
 
 I've had the privilege of working in various roles that have honed my skills in geospatial analysis, marine conservation, diving instruction, and more. Below is an overview of my recent job history.
 
-## Professional Experience
+## Education
+
+### M.S. Marine Science
+**University of North Carolina Wilmington**  
+Wilmington, North Carolina  
+August 2022 – Present  
+Focus: Ocean Color Remote Sensing
+
+### Bachelor of Science in Biology
+**Creighton University**  
+Omaha, Nebraska  
+August 2015 – May 2019  
+Minor: Environmental Science
+
+### Study Abroad in Marine Biology
+**San Cristóbal Island, Galapagos Archipelago**  
+August 2018 – December 2018  
+Focus: Marine Biology
+
+## Professional
 
 ### Geospatial Analyst
 **GeoNXS Solutions LLC (Contract)**  
