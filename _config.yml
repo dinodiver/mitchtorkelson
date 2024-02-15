@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mitch Torkelson's Portfolio
+title: Mitch Torkelson
 email: mitchtorkelson@gmail.com
 description: >-
   Welcome to my portfolio site. Here, I showcase my academic achievements,
