@@ -22,7 +22,7 @@ Minor: Environmental Science
 
 ### Study Abroad
 **Universidad San Francisco de Quito-Galápagos**   
-San Cristóbal Island, Galapagos Archipelago  
+San Cristóbal Island, Galápago Islands, Ecuador
 August 2018 – December 2018  
 Focus: Marine Biology  
 
@@ -31,7 +31,7 @@ Focus: Marine Biology
 ### Geospatial Analyst
 **GeoNXS Solutions LLC**  
 Wilmington, North Carolina  
-2023 - Present (1 yr)  
+2023 - Present  
 
 - Specialized in utilizing ESRI ArcGIS Pro for digitization of land features, spatial analysis, and map generation.
 - Excelled in collecting, cleaning, and analyzing geographic data to derive valuable insights, supporting decision-making processes in marine conservation.
@@ -40,7 +40,7 @@ Wilmington, North Carolina
 ### Graduate Research Assistant
 **University of North Carolina Wilmington**  
 Wilmington, North Carolina  
-Aug 2022 - Present (1 yr 7 mos)  
+Aug 2022 - Present
 
 - Conducted comparative study on the accuracy of HawkEye ocean color imagery against in-situ measurements in the Cape Fear River Estuary.
 - Played a key role in collecting 3D sea-truthing data and analyzing high-resolution ocean color imagery.
@@ -49,7 +49,7 @@ Aug 2022 - Present (1 yr 7 mos)
 ### Divemaster
 **Aquatic Safaris**  
 Wilmington, North Carolina  
-Feb 2022 - Aug 2022 (7 mos)
+Feb 2022 - Aug 2022
 
 - Led divers on explorations of wrecks, ledges, and reefs, ensuring safety and providing exceptional customer service.
 - Skills: Equipment Maintenance, First Mate, Retail Sales, Guided Tours, PADI Divemaster.
@@ -57,7 +57,7 @@ Feb 2022 - Aug 2022 (7 mos)
 ### First Mate
 **RED Hospitality & Leisure LLC**  
 Key Largo, Florida, United States  
-Aug 2021 - Dec 2021 (5 mos)
+Aug 2021 - Dec 2021
 
 - Facilitated daily cruises in the Florida Keys, providing top-notch customer service and ensuring guests' safety.
 - Skills: Sustainable Tourism, Ecotourism, Guided Tours, Food & Beverage, Yacht Charters.
@@ -65,7 +65,7 @@ Aug 2021 - Dec 2021 (5 mos)
 ### Conservation Intern
 **Coral Restoration Foundation™**  
 Key Largo, Florida, United States  
-Jan 2021 - Aug 2021 (8 mos)
+Jan 2021 - Aug 2021
 
 - Managed health of coral in offshore nurseries and led public dive programs for coral planting, contributing significantly to reef restoration efforts.
 - Skills: Public Speaking, Public Outreach, Data Analysis, Leadership, Scuba Diving, Field Research.
@@ -73,7 +73,7 @@ Jan 2021 - Aug 2021 (8 mos)
 ### Substitute Teacher
 **Smithville High School**  
 Smithville, MO  
-Aug 2019 - Mar 2020 (8 mos)
+Aug 2019 - Mar 2020
 
 - Fulfilled short-term and long-term teaching requirements for K-12, utilizing existing plans to continue education and reinforce core concepts.
 - Skills: Public Speaking, Classroom Management, Student Engagement, Teaching, Positive Discipline.
@@ -81,7 +81,7 @@ Aug 2019 - Mar 2020 (8 mos)
 ### Research Assistant
 **University of Georgia-Marine Institute**  
 Sapelo Island, GA  
-May 2019 - Aug 2019 (4 mos)
+May 2019 - Aug 2019
 
 - Collaborated in mapping coastal United States salt marsh ecosystems, utilizing drone photography and remote sensing software for vegetation coverage analysis.
 - Skills: Drone Photography, Interdisciplinary Collaboration, Geographic Information Systems (GIS), Small Boat Operations, Remote Sensing.
