@@ -22,14 +22,14 @@ Minor: Environmental Science
 
 ### Study Abroad
 **Universidad San Francisco de Quito-Galápagos**   
-San Cristóbal Island, Galápago Islands, Ecuador  
+San Cristóbal Island, Galápago Islands, Ecuador    
 August 2018 – December 2018   
 Focus: Marine Biology  
 
 ## Professional
 
 ### Geospatial Analyst
-**GeoNXS Solutions LLC**  
+**GeoNXS Solutions, LLC**  
 Wilmington, North Carolina  
 2023 - Present  
 
