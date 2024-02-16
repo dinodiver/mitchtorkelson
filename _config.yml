@@ -28,7 +28,7 @@ baseurl: "/mitchtorkportfolio" # the subpath of your site, e.g. /blog
 url: "https://dinodiver.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: mitch-torkelson
 github_username:  dinodiver
-youtube_channel: dinodiver11
+youtube_channel: https://www.youtube.com/user/dinodiver11
 
 # Build settings
 theme: minima
