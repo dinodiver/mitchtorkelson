@@ -3,9 +3,6 @@ layout: page
 title: Experience
 permalink: /experience/
 ---
-
-I've had the privilege of working in various roles that have honed my skills in geospatial analysis, marine conservation, diving instruction, and more. Below is an overview of my recent job history.
-
 ## Education
 
 ### M.S. Marine Science
@@ -87,8 +84,6 @@ May 2019 - Aug 2019
 - Skills: Drone Photography, Interdisciplinary Collaboration, Geographic Information Systems (GIS), Small Boat Operations, Remote Sensing.
 
 ## Conference and Poster Presentations
-
-In addition to my professional and academic endeavors, I have had the opportunity to present my research and findings at various conferences and showcases.  
 
 ### Evaluating the Accuracy of HawkEye Ocean Color Imagery
 **NC Water Resources Research Institute (WRRI) Annual Conference**  
