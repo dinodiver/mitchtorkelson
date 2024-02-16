@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About Mitch Torkelson
+# About Me
 
 Welcome to my personal space on the web. I'm Mitch Torkelson, a marine scientist, geospatial analyst, and avid diver with a passion for understanding and preserving our oceanic ecosystems.
 
@@ -22,7 +22,16 @@ I've presented my research at various conferences, such as the NC Water Resource
 
 ## Interests and Hobbies
 
-Beyond my professional life, I am a zealous advocate for sustainable living and a hobbyist photographer. I believe that every snapshot we take is a story to tell and a memory to preserve.
+When I'm not immersed in marine science or geospatial analysis, I enjoy a variety of activities that keep me engaged and active:
+
+- **Conversational Spanish**: I love practicing my Spanish, improving my fluency and understanding of different cultures.
+- **Running & cycling**: Whether it's a morning jog or ride to clear my mind or a competitive race, staying active is important to me.
+- **Scuba Diving**: There's nothing quite like exploring the underwater world, a passion that complements my professional interests.
+- **Cooking**: I find joy in experimenting with new recipes and flavors, it's like a science experiment with delicious results.
+- **Swimming**: It's a great way to relax and stay fit, and feels quite natural as an extension of my love for water.
+- **Chess**: Strategy and forethought in chess help me unwind and keep my mind sharp.
+- **Hiking**: I'm an outdoors enthusiast, cherishing every opportunity to connect with nature.
+
 
 ## Let's Connect
 
