@@ -86,4 +86,43 @@ May 2019 - Aug 2019
 - Collaborated in mapping coastal United States salt marsh ecosystems, utilizing drone photography and remote sensing software for vegetation coverage analysis.
 - Skills: Drone Photography, Interdisciplinary Collaboration, Geographic Information Systems (GIS), Small Boat Operations, Remote Sensing.
 
+## Conference and Poster Presentations
+
+In addition to my professional and academic endeavors, I have had the opportunity to present my research and findings at various conferences and showcases.  
+
+### Evaluating the Accuracy of HawkEye Ocean Color Imagery
+**NC Water Resources Research Institute (WRRI) Annual Conference**  
+NC State Campus, Raleigh, NC  
+March 2024  
+Evaluated the precision of HawkEye satellite sensors in capturing ocean color imagery, with a focus on its application in coastal and estuarine environments.  
+
+Attended by Distinguished Guests  
+UNCW, Wilmington, NC  
+February 2024  
+Presented findings to U.S. Secretary of the Interior Deb Haaland and BOEM Director Liz Klein, highlighting the capabilities of high-resolution satellite data.
+
+### HawkEye’s High-Resolution Reveals Fine-Scale Coastal Variability
+**CMS Research Showcase**  
+UNCW, Wilmington, NC  
+April 2023  
+Demonstrated how HawkEye’s high-resolution imagery can reveal detailed patterns in coastal processes.
+
+### Satellite Imagery reveals chlorophyll-a, TSM, and CDOM content of South Atlantic Bite
+**Creighton Undergraduate Research Showcase**  
+Creighton University, Omaha, NE  
+May 2019  
+Showcased the use of satellite imagery in identifying chlorophyll concentrations and other oceanographic parameters in the South Atlantic Bight.
+
+### Arrowheads vs. The Megafauna
+**Omaha in the Anthropocene**  
+The Durham Museum, Omaha, NE  
+December 2017  
+Presented research on the impact of ancient hunting tools on megafaunal populations.
+
+### IRB, A Place Ballot of Resistance
+**Summer Research Institute**  
+Creighton University, Omaha, NE  
+August 2017  
+Discussed the role of institutional review boards in safeguarding the rights and well-being of research participants.
+
 
