@@ -91,12 +91,13 @@ NC State Campus, Raleigh, NC
 March 2024  
 Evaluated the precision of HawkEye satellite sensors in capturing ocean color imagery, with a focus on its application in coastal and estuarine environments.  
 
+### HawkEye’s High-Resolution Reveals Fine-Scale Coastal Variability
+**CMS Research Showcase**  
 Attended by Distinguished Guests  
 UNCW, Wilmington, NC  
 February 2024  
 Presented findings to U.S. Secretary of the Interior Deb Haaland and BOEM Director Liz Klein, highlighting the capabilities of high-resolution satellite data.
 
-### HawkEye’s High-Resolution Reveals Fine-Scale Coastal Variability
 **CMS Research Showcase**  
 UNCW, Wilmington, NC  
 April 2023  
