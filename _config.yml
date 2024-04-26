@@ -1,20 +1,23 @@
+# Site settings
 title: Mitch Torkelson
 email: mitchtorkelson@gmail.com
-description: >-
-  Welcome to my portfolio site. Here, I showcase my academic achievements,
-  professional work, and ongoing projects. Dive in to learn more about my
-  journey and expertise.
-baseurl: "/mitchtorkportfolio"
+description: "Welcome to my portfolio site where I showcase my academic achievements, professional work, and ongoing projects. Dive in to learn more about my journey and expertise."
+baseurl: "/mitchtorkportfolio" 
 url: "https://dinodiver.github.io"
+author: Mitch Torkelson
 linkedin_username: mitch-torkelson
 github_username: dinodiver
 youtube_channel: https://www.youtube.com/user/dinodiver11
+google_analytics: G-C4FD9YVF04
+favicon: "/assets/images/favicon.ico"
+default_image: "/assets/images/default-share-image.png"
 
-# Author
-author: Mitch Torkelson
-
-# Default post image (used for social media shares)
-default_image: "/assets/images/MMmtns
+# SEO Enhancements
+seo:
+  twitter_card: "summary_large_image"
+  og:
+    type: "website"
+    site_name: "Mitch Torkelson's Portfolio"
 
 # Build settings
 theme: minima
@@ -22,11 +25,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-assets
+  - jekyll-minifier
 
-# Google Analytics
-google_analytics: G-C4FD9YVF04
-
-# Performance and Exclusions
+# Exclusions
 exclude:
   - .sass-cache/
   - .jekyll-cache/
