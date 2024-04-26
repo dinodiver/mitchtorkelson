@@ -6,36 +6,36 @@ permalink: /about/
 
 # About Me
 
-Welcome to my personal space on the web. I'm Mitch Torkelson, a marine scientist, geospatial analyst, and avid diver with a passion for understanding and preserving our oceanic ecosystems.
+Welcome to my personal space on the web. I'm Mitch Torkelson, a marine scientist and geospatial analyst dedicated to teh study and conservation of ocean ecosystems. I'm also an avid SCUBA diver, which complements my professional intersts and personal passion for the sea. 
 
-## My Journey
+## My Academic Journey
 
-My academic path began at Smithville High School and led me to Creighton University, where I earned a Bachelor of Science in Biology, minoring in Environmental Science. My quest for knowledge took me to the Galapagos Archipelago for a study abroad program focused on Marine Biology, and later to the University of North Carolina Wilmington for an M.S. in Marine Science, specializing in Ocean Color Remote Sensing.
+I began my academic journey north of Kansas City, Missouri, at Smithville High School, participating in soccer, cross country, and track and field. I earned a Bachelor of Science in Biology with a minor in Environmental Science from Creighton University in Omaha, NE. My passion for marine biology led me to study abroad in Galapagos Archipelago, and later to the University of North Carolina-Wilmington, where I completed a M.S. in Marine Science, specializing in Oceacn Color Remote Sensing.
 
 ## Professional Endeavors
 
-Professionally, I've worn many hats. As a Geospatial Analyst, I've harnessed the power of GIS to aid conservation efforts. My work as a Graduate Research Assistant allowed me to dive deep into coastal research, leveraging satellite imagery to investigate the mysteries of the Cape Fear River Estuary. Alongside my academic research, I've shared my knowledge and love for the underwater world as a Divemaster, guiding others through aquatic adventures.
+Professionally, I've worn many hats, from analyzing satellite imagery, to guiding Everglades and Florida Coral Reef ecotours, to conducting coastal research on the Cape Fear Estuary. As a PADI Divemaster, I have also guided SCUBA dives, sharing the wonders of the ocean with others.
 
 ## Conferences and Presentations
 
-I've presented my research at various conferences, such as the NC Water Resources Research Institute (WRRI) Annual Conference and the CMS Research Showcase. These opportunities have not only honed my public speaking skills but also allowed me to contribute to important environmental conversations.
+I've presented my research at various professional gatherings, including the NC Water Resources Research Institute (WRRI) Annual Conference, the Center for Marine Science (CMS) Research Showcase, and the Sea Base High Adventure Camp. These experiences have sharpended my public speaking skills and allowed me to engage with key environmental topics.
 
 ## Interests and Hobbies
 
-When I'm not immersed in marine science or geospatial analysis, I enjoy a variety of activities that keep me engaged and active:
+Outside of my professional life, I enjoy:
 
-- **Conversational Spanish**: I love practicing my Spanish, improving my fluency and understanding of different cultures.
-- **Running & cycling**: Whether it's a morning jog or ride to clear my mind or a competitive race, staying active is important to me.
-- **Scuba Diving**: There's nothing quite like exploring the underwater world, a passion that complements my professional interests.
+- **Running, Swimming & Cycling**: Whether it's a morning jog, a ride to clear my mind, or a splash in the pool, staying active is important to me.
+- **Scuba Diving**: There's nothing quite like exploring the underwater world or hunting for fossilized Megalodon teeth.
 - **Cooking**: I find joy in experimenting with new recipes and flavors, it's like a science experiment with delicious results.
-- **Swimming**: It's a great way to relax and stay fit, and feels quite natural as an extension of my love for water.
-- **Chess**: Strategy and forethought in chess help me unwind and keep my mind sharp.
-- **Hiking**: I'm an outdoors enthusiast, cherishing every opportunity to connect with nature.
+- **Kayaking**: It's a great way to relax and explore, and feels quite natural as an extension of my love for water.
+- **Chess**: Strategy and forethought in chess help me keep my mind sharp. You can find me on chess.com as [Dinodiver4](https://www.chess.com/member/dinodiver4).
+- **Hiking**: I'm an outdoors enthusiast, so every trail lets me reconnect with nature.
+- **Conversational Spanish**: I love practicing my Spanish, improving my fluency and understanding of different cultures.
 
 
 ## Let's Connect
 
-I'm always open to discussing potential collaborations, research opportunities, or just chatting about the latest in marine conservation. Feel free to reach out to me.
+I'm always open to discussing collaborations, research opportunities, or just chatting about the latest in marine conservation. Feel free to reach out to me.
 
 Thank you for visiting, and I hope to connect with you soon!
 
