@@ -3,18 +3,18 @@ layout: home
 title: Home
 ---
 
-# Welcome to My Portfolio
+# Welcome to My Personal and Professional World
 
-I'm Mitch Torkelson, a passionate developer and designer dedicated to building innovative projects and advancing technology. Explore my work, read about my adventures in tech, and feel free to reach out if you'd like to collaborate.
+Howdy, I'm Mitch Torkelson, a marine scientist and geospatial analyst with a deep commitment to understanding and preserving our oceanic ecosystems. Dive into my portfolio to explore the satellite imagery projects I've led, discover insights from my research, and view the technological tools I've developed.
 
-## Featured Projects
+## Highlighted Projects and Research
 
-- [Project Name](/projects/project-name) - A brief description of an exciting project.
+Explore my diverse range of projects from satellite imagery analysis to ocean conservation efforts on my [Projects page](/mitchtorkportfolio/projects).
 
 ## About Me
 
-Learn more [about me](/mitchtorkportfolio//about) and my journey in the tech industry.
+Discover more [about my academic and professional journey](/mitchtorkportfolio/about), including my studies in marine science, interests, and hobbies.
 
-## Contact
+## Connect With Me
 
-Interested in collaborating? [Let's get in touch](mailto:mitchtorkelson@gmail.com).
+Looking to discuss marine science or interested in collaborating on a project? [Reach out and connect](mailto:mitchtorkelson@gmail.com).
