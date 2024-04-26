@@ -123,6 +123,5 @@ May 2019 - Aug 2019
 **Summer Research Institute**  
 **Location:** Creighton University, Omaha, NE  
 **Date:** August 2017  
-**Summary:** Discussed the role of institutional review boards in safeguarding the rights and well-being of research participants.  
-
+**Summary:** Explored the impact of gentrification on the neighborhoods of Bemis and Gifford Park, focusing on its effects on local residents and community dynamics. 
 
