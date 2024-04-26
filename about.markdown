@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-Welcome to my personal space on the web. I'm Mitch Torkelson, a marine scientist and geospatial analyst dedicated to teh study and conservation of ocean ecosystems. I'm also an avid SCUBA diver, which complements my professional intersts and personal passion for the sea. 
+Welcome to my personal space on the web. I'm Mitch Torkelson, a marine scientist and geospatial analyst dedicated to the study and conservation of ocean ecosystems. I'm also an avid SCUBA diver, which complements my professional intersts and personal passion for the sea. 
 
 ## My Academic Journey
 
