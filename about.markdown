@@ -10,7 +10,7 @@ Welcome to my personal space on the web. I'm Mitch Torkelson, a marine scientist
 
 ## My Academic Journey
 
-I began my academic journey north of Kansas City, Missouri, at Smithville High School, participating in soccer, cross country, and track and field. I earned a Bachelor of Science in Biology with a minor in Environmental Science from Creighton University in Omaha, NE. My passion for marine biology led me to study abroad in Galapagos Archipelago, and later to the University of North Carolina-Wilmington, where I completed a M.S. in Marine Science, specializing in Oceacn Color Remote Sensing.
+I began my academic journey north of Kansas City, Missouri, at Smithville High School, participating in soccer, cross country, and track and field. I earned a B.S. in Biology with a minor in Environmental Science from Creighton University in Omaha, NE. My passion for marine biology led me to study abroad in Galapagos Archipelago, and later to the University of North Carolina-Wilmington, where I completed a M.S. in Marine Science, specializing in Oceacn Color Remote Sensing.
 
 ## Professional Endeavors
 
