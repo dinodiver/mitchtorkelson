@@ -3,6 +3,8 @@ layout: home
 title: Home
 ---
 
+![Home Page](/mitchtorkportfolio/assets/images/coral.jpg)
+
 # Welcome to my Personal and Professional World
 
 Howdy, I'm Mitch Torkelson, a marine scientist and geospatial analyst with a deep commitment to understanding and preserving our oceanic ecosystems. Dive into my portfolio to explore the satellite imagery projects I've led, discover insights from my research, and view the technological tools I've developed.
