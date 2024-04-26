@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 # Welcome to my Personal and Professional World
