@@ -94,32 +94,35 @@ May 2019 - Aug 2019
 
 ### HawkEye’s High-Resolution Reveals Fine-Scale Coastal Variability
 **CMS Research Showcase**  
-Attended by Distinguished Guests  
-UNCW, Wilmington, NC  
-February 2024  
-Presented findings to U.S. Secretary of the Interior Deb Haaland and BOEM Director Liz Klein, highlighting the capabilities of high-resolution satellite data.
+**Location:** UNCW, Wilmington, NC  
+**Date:** February 2024  
+**Audience:** Presented findings to U.S. Secretary of the Interior Deb Haaland and BOEM Director Liz Klein, highlighting the capabilities of high-resolution satellite data.
+[View Poster](https://dinodiver.github.io/mitchtorkportfolio/assets/posters/cms_summer_23.pdf)
 
+### HawkEye’s High-Resolution Reveals Fine-Scale Coastal Variability
 **CMS Research Showcase**  
-UNCW, Wilmington, NC  
-April 2023  
-Demonstrated how HawkEye’s high-resolution imagery can reveal detailed patterns in coastal processes.
+**Location:** UNCW, Wilmington, NC  
+**Date:** April 2023  
+**Summary:** Demonstrated how HawkEye’s high-resolution imagery can reveal detailed patterns in coastal processes.
+[View Poster](https://dinodiver.github.io/mitchtorkportfolio/assets/posters/cms_summer_23.pdf)
 
-### Satellite Imagery reveals chlorophyll-a, TSM, and CDOM content of South Atlantic Bite
+### Satellite Imagery reveals chlorophyll-a, TSM, and CDOM content of South Atlantic Bight
 **Creighton Undergraduate Research Showcase**  
-Creighton University, Omaha, NE  
-May 2019  
-Showcased the use of satellite imagery in identifying chlorophyll concentrations and other oceanographic parameters in the South Atlantic Bight.
+**Location:** Creighton University, Omaha, NE  
+**Date:** May 2019  
+**Summary:** Showcased the use of satellite imagery in identifying chlorophyll concentrations and other oceanographic parameters in the South Atlantic Bight.  
 
 ### Arrowheads vs. The Megafauna
 **Omaha in the Anthropocene**  
-The Durham Museum, Omaha, NE  
-December 2017  
-Presented research on the impact of ancient hunting tools on megafaunal populations.
+**Location:** The Durham Museum, Omaha, NE  
+**Date:** December 2017  
+**Summary:** Presented research on the impact of ancient hunting tools on megafaunal populations.  
+[View Poster](https://dinodiver.github.io/mitchtorkportfolio/assets/posters/arrowheads_vs_megafauna.pdf)
 
 ### IRB, A Place Ballot of Resistance
 **Summer Research Institute**  
-Creighton University, Omaha, NE  
-August 2017  
-Discussed the role of institutional review boards in safeguarding the rights and well-being of research participants.
+**Location:** Creighton University, Omaha, NE  
+**Date:** August 2017  
+**Summary:** Discussed the role of institutional review boards in safeguarding the rights and well-being of research participants.  
 
 
