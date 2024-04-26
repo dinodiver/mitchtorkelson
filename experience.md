@@ -89,8 +89,8 @@ May 2019 - Aug 2019
 **NC Water Resources Research Institute (WRRI) Annual Conference**  
 **Location:** NC State Campus, Raleigh, NC  
 **Date:** March 2024  
-**Summary:** Evaluated the precision of HawkEye satellite sensors in capturing ocean color imagery, focusing on its application in coastal and estuarine environments.  
-[View Poster](https:/mitchtorkportfolio/assets/posters/WRRI_poster.pdf)
+**Summary:** Evaluated the accuracy of HawkEye satellite sensors in capturing ocean color imagery, focusing on its application in coastal and estuarine environments.  
+[View Poster](https://dinodiver.github.io/mitchtorkportfolio/assets/posters/WRRI_poster.pdf)
 
 ### HawkEye’s High-Resolution Reveals Fine-Scale Coastal Variability
 **CMS Research Showcase**  
