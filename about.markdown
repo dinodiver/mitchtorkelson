@@ -30,7 +30,7 @@ Outside of my professional life, I enjoy:
 - **Scuba Diving**: There's nothing quite like exploring the underwater world or hunting for fossilized Megalodon teeth. [Explore my dive map!](/mitchtorkportfolio/assets/files/DiveLog.html){:target="_blank"}
 - **Cooking**: I find joy in experimenting with new recipes and flavors, it's like a science experiment with delicious results.
 - **Kayaking**: It's a great way to relax and explore, and feels quite natural as an extension of my love for water.
-- **Chess**: Strategy and forethought in chess help me keep my mind sharp. You can find me on chess.com as [Dinodiver4](https://www.chess.com/member/dinodiver4).
+- **Chess**: Strategy and forethought in chess help me keep my mind sharp. [Add me on chess.com!](https://www.chess.com/member/dinodiver4){:target="_blank"}
 - **Hiking**: I'm an outdoors enthusiast, so every trail lets me reconnect with nature.
 - **Conversational Spanish**: I love practicing my Spanish, improving my fluency and understanding of different cultures.
 
