@@ -27,7 +27,7 @@ I've presented my research at various professional gatherings, including the NC 
 Outside of my professional life, I enjoy:
 
 - **Running, Swimming & Cycling**: Whether it's a morning jog, a ride to clear my mind, or a splash in the pool, staying active is important to me.
-- **Scuba Diving**: There's nothing quite like exploring the underwater world or hunting for fossilized Megalodon teeth.
+- **Scuba Diving**: There's nothing quite like exploring the underwater world or hunting for fossilized Megalodon teeth. [Explore my dive map!](/Users/mitchtork/website/assets/files/DiveLog.html){:target="_blank"}
 - **Cooking**: I find joy in experimenting with new recipes and flavors, it's like a science experiment with delicious results.
 - **Kayaking**: It's a great way to relax and explore, and feels quite natural as an extension of my love for water.
 - **Chess**: Strategy and forethought in chess help me keep my mind sharp. You can find me on chess.com as [Dinodiver4](https://www.chess.com/member/dinodiver4).
