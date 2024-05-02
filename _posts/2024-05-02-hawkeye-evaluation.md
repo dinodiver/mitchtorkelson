@@ -3,7 +3,7 @@ layout: post
 title: "HawkEye Evaluation"
 date: 2024-05-02 00:00:00 -0700
 description: Ocean Color Remote Sensing at UNCW
-img: hawkeye.png  # optional, only if you want an image displayed
+img: assets/img/hawkeye.png  # optional, only if you want an image displayed
 tags: [water quality, remote sensing, oceanography] # add tag
 categories: research
 ---
