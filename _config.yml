@@ -20,7 +20,7 @@ seo:
     site_name: "Mitch Torkelson's Portfolio"
 
 # Build settings
-theme: minima
+theme: flexible-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
