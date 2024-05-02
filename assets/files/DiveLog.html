@@ -25,7 +25,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_6e5cc5b30607e1bf683b8f9fb74a75ed {
+                #map_86c210505bf00e89ab03593e8806b1e9 {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -47,18 +47,18 @@
     <strong>Dive Stats:</strong> 290 Dives | 264h 33m Underwater
 </div>
     
-            <div class="folium-map" id="map_6e5cc5b30607e1bf683b8f9fb74a75ed" ></div>
+            <div class="folium-map" id="map_86c210505bf00e89ab03593e8806b1e9" ></div>
         
 </body>
 <script>
     
     
-            var map_6e5cc5b30607e1bf683b8f9fb74a75ed = L.map(
-                "map_6e5cc5b30607e1bf683b8f9fb74a75ed",
+            var map_86c210505bf00e89ab03593e8806b1e9 = L.map(
+                "map_86c210505bf00e89ab03593e8806b1e9",
                 {
-                    center: [0.0, 0.0],
+                    center: [26.68831789357448, -81.16653993227587],
                     crs: L.CRS.EPSG3857,
-                    zoom: 2,
+                    zoom: 4,
                     zoomControl: true,
                     preferCanvas: false,
                 }
@@ -68,13 +68,22 @@
 
         
     
-            var tile_layer_9a221b3e99f5fb9630facae0dda7de75 = L.tileLayer(
-                "https://server.arcgisonline.com/ArcGIS/rest/services/Ocean_Basemap/MapServer/tile/{z}/{y}/{x}",
-                {"attribution": "Esri", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            var tile_layer_fcd0998aaa53e8fbf2cbcc14bdae2a9a = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
             );
         
     
-            tile_layer_9a221b3e99f5fb9630facae0dda7de75.addTo(map_6e5cc5b30607e1bf683b8f9fb74a75ed);
+            tile_layer_fcd0998aaa53e8fbf2cbcc14bdae2a9a.addTo(map_86c210505bf00e89ab03593e8806b1e9);
+        
+    
+            var tile_layer_a99fb02328ddce2ab28899ef75b5885c = L.tileLayer(
+                "Stamen Watercolor",
+                {"attribution": "Map data \u00a9 OpenStreetMap contributors, CC-BY-SA, Imagery \u00a9 Stamen Design", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_a99fb02328ddce2ab28899ef75b5885c.addTo(map_86c210505bf00e89ab03593e8806b1e9);
         
 </script>
 </html>
