@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Experience
-permalink: /experience/
+layout: cv
 ---
 ## Education
 

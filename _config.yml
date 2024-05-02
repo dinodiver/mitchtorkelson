@@ -1,42 +1,38 @@
-# Site settings
 title: Mitch Torkelson
-email: mitchtorkelson@gmail.com
-description: "Welcome to my portfolio site where I showcase my academic achievements, professional work, and ongoing projects. Dive in to learn more about my journey and expertise."
-baseurl: "/mitchtork" 
-url: "https://dinodiver.github.io"
-author: Mitch Torkelson
-linkedin_username: mitch-torkelson
-github_username: dinodiver
-youtube_channel: https://www.youtube.com/user/dinodiver11
-google_analytics: G-C4FD9YVF04
-favicon: "/assets/images/favicon"
-default_image: "/assets/images/default-share-image.png"
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to my portfolio site where I showcase my academic achievements, professional work, and ongoing projects. Dive in to learn more about my journey and expertise.
+# Write an awesome description for your new site here. You can edit this
+# line in _config.yml. It will appear in your document head meta (for
+# Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl:  "/mitchtork"  # the subpath of your site, e.g. /blog
+url: "https://dinodiver.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+site-twitter: #if your site has a twitter account, enter it here
 
-# SEO Enhancements
-seo:
-  twitter_card: "summary_large_image"
-  og:
-    type: "website"
-    site_name: "Mitch Torkelson's Portfolio"
+# Author Settings
+author: # add your name (shows up better without due to name in image)
+author-img: Torkelson_Headshot.jpg # add your photo
+about-author: Masters of Marine Sciene student at UNCW # add description
+social-twitter: dinodiver_ # add your Twitter handle
+social-facebook: mitchtorkelson # add your Facebook handle
+social-github: dinodiver # add your Github handle
+social-linkedin: mitch-torkelson # add your Linkedin handle
+social-email: mitchtorkelson@gmail.com # add your Email address
 
-# Build settings
-theme: minima
+# Disqus
+discus-identifier: philipbresnahan # add your discus identifier
+
+# Tracker
+analytics: UA-120442455-1 # Google Analytics
+
+# Build Settings
+markdown: kramdown
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-assets
-  - jekyll-minifier
+  - jemoji
 
-# Exclusions
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
