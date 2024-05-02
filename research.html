@@ -1,17 +1,18 @@
 ---
-layout: main  # Adjust this if your theme uses a different layout for pages
-title: Research
+layout: main
 ---
 
-<div class="projects">
-    <h1>Here are some of the projects I've worked on:</h1>
-
-    <section class="project">
-        <h2>HawkEye Evaluation</h2>
-        <img src="{{ '/assets/img/hawkeye.png' | prepend: site.baseurl }}" alt="Project Image 1">
-        <p>This project aims to evaluate the efficacy of the HawkEye satellite sensor in capturing ocean color (OC) imagery, focusing on the Cape Fear River Estuary (CFRE) in southeastern North Carolina. Despite the value of coastal and estuarine environments, their study via remote sensing is challenged by optically complex waters. By comparing in-situ measurements with HawkEye and other satellites' data, this research endeavors to enhance marine conservation and management strategies.</p>
-        <a href="https://github.com/COAST-Lab/HawkEye_Evaluation" target="_blank">GitHub Repository</a>
-    </section>
-
-    <!-- Repeat the <section> block for other projects -->
+<div class="research-container">
+  {% for post in site.categories.research %}
+    <article class="post">
+      {% if post.img %}
+        <a class="post-thumbnail" style="background-image: url({{ "/assets/img/" | prepend: site.baseurl | append: post.img }});" href="{{ post.url | prepend: site.baseurl }}"></a>
+      {% endif %}
+      <div class="post-content">
+        <h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt | truncatewords: 15 }}</p>
+        <span class="post-date">{{ post.date | date: '%d-%b-%Y' }}</span>
+      </div>
+    </article>
+  {% endfor %}
 </div>
