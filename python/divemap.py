@@ -1,5 +1,6 @@
 import pandas as pd
 import folium
+from folium import IFrame
 from folium.plugins import MarkerCluster
 
 # Load your CSV file containing dive data
@@ -26,9 +27,9 @@ for index, row in dive_data.iterrows():
     folium.Marker(
         location=[row['lat'], row['lon']],
         popup=f"Dive #{row['Dive #']}: {row['Location']}<br>Time: {row['Dive Time (min)']} minutes",
-        icon=folium.Icon(icon='cloud')
+        icon=folium.Icon(icon='sunglasses')
     ).add_to(marker_cluster)
-    
+
 # HTML to display stats
 html = f"""
 <div style="position: fixed; top: 10px; left: 50%; transform: translateX(-50%);

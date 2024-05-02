@@ -39,7 +39,3 @@ Outside of my professional life, I enjoy:
 I'm always open to discussing collaborations, research opportunities, or just chatting about the latest in marine conservation. Feel free to reach out to me.
 
 Thank you for visiting, and I hope to connect with you soon!
-
-[LinkedIn](https://www.linkedin.com/in/mitch-torkelson)
-[GitHub](https://github.com/dinodiver)
-[Email](mailto:mitchtorkelson@gmail.com)
