@@ -88,21 +88,21 @@ May 2019 - Aug 2019
 **Location:** NC State Campus, Raleigh, NC  
 **Date:** March 2024  
 **Summary:** Evaluated the accuracy of HawkEye satellite sensors in capturing ocean color imagery, focusing on its application in coastal and estuarine environments.  
-[View Poster](https://dinodiver.github.io/mitchtork/assets/posters/WRRI_poster.pdf)
+[View Poster](https://dinodiver.github.io/mitchtork/assets/pdf/WRRI_poster.pdf)
 
 ### HawkEye’s High-Resolution Reveals Fine-Scale Coastal Variability
 **CMS Research Showcase**  
 **Location:** UNCW, Wilmington, NC  
 **Date:** February 2024  
 **Audience:** Presented findings to U.S. Secretary of the Interior Deb Haaland and BOEM Director Liz Klein, highlighting the capabilities of high-resolution satellite data.  
-[View Poster](https://dinodiver.github.io/mitchtork/assets/posters/cms_summer_23.pdf)
+[View Poster](https://dinodiver.github.io/mitchtork/assets/pdf/cms_summer_23.pdf)
 
 ### HawkEye’s High-Resolution Reveals Fine-Scale Coastal Variability
 **CMS Research Showcase**  
 **Location:** UNCW, Wilmington, NC  
 **Date:** April 2023  
 **Summary:** Demonstrated how HawkEye’s high-resolution imagery can reveal detailed patterns in coastal processes.  
-[View Poster](https://dinodiver.github.io/mitchtork/assets/posters/cms_summer_23.pdf)
+[View Poster](https://dinodiver.github.io/mitchtork/assets/pdf/cms_summer_23.pdf)
 
 ### Satellite Imagery reveals chlorophyll-a, TSM, and CDOM content of South Atlantic Bight
 **Creighton Undergraduate Research Showcase**  
@@ -115,7 +115,7 @@ May 2019 - Aug 2019
 **Location:** The Durham Museum, Omaha, NE  
 **Date:** December 2017  
 **Summary:** Presented research on the impact of ancient hunting tools on megafaunal populations.    
-[View Poster](https://dinodiver.github.io/mitchtork/assets/posters/arrowheads_vs_megafauna.pdf)
+[View Poster](https://dinodiver.github.io/mitchtork/assets/pdf/arrowheads_vs_megafauna.pdf)
 
 ### IRB, A Place Ballot of Resistance
 **Summer Research Institute**  
