@@ -17,7 +17,7 @@ location_counts = dive_data.groupby(['Location', 'lat', 'lon']).size().reset_ind
 # Determine the maximum number of dives at any single location for color scaling
 max_dives = location_counts['counts'].max()
 
-# Create a base map
+# Create a base map, centering it on an area that will definitely be visible
 map_dive_locations = folium.Map(location=[0, 0], zoom_start=2)
 
 # Marker cluster
@@ -28,7 +28,7 @@ for idx, row in location_counts.iterrows():
     color = f"#{int((1 - row['counts'] / max_dives) * 255):02x}0000ff"
     folium.CircleMarker(
         location=[row['lat'], row['lon']],
-        radius=7,  # Constant size
+        radius=7,
         popup=(
             f"<strong>Location:</strong> {row['Location']}<br>"
             f"<strong>Dives:</strong> {row['counts']}"
@@ -41,20 +41,15 @@ for idx, row in location_counts.iterrows():
 
 # Prepare the HTML for the dive stats, styled as a ticker
 html = f"""
-<div style="background-color: rgba(0,0,0,0.8); color: white; font-size:16px; padding:10px; border-radius: 8px; border: 2px solid #0078A8; position: absolute; bottom: 20px; left: 20px; z-index:1000;">
+<div style="background-color: rgba(0,0,0,0.8); color: white; font-size:16px; padding:10px; border-radius: 8px; border: 2px solid #0078A8; position: absolute; top: 10px; left: 50%; transform: translateX(-50%); z-index:1000;">
     <strong>Dive Stats:</strong> {total_dive_count} Dives | {total_dive_time_hours}h {remaining_minutes}m Underwater
 </div>
 """
 
-# Create a DivIcon that will use the HTML
-div_icon = folium.DivIcon(
-    icon_size=(None, None),
-    icon_anchor=(0, 0),
-    html=html,
-)
-
-# Add this div icon to the map
-folium.Marker(location=[0, 0], icon=div_icon, opacity=0).add_to(map_dive_locations)
+# Add HTML to the map using a simple iframe embedded in a popup (alternative approach)
+iframe = folium.IFrame(html=html, width=300, height=100)
+popup = folium.Popup(iframe, max_width=300)
+folium.Marker(location=[20, 0], popup=popup).add_to(map_dive_locations)
 
 # Save the map to an HTML file
 map_dive_locations.save('/Users/mitchtork/website/assets/files/DiveLog.html')
