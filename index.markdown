@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-![Home Page](/mitchtorkportfolio/assets/images/coral.jpg)
+![Home Page](/mitchtork/assets/images/coral.jpg)
 
 # Welcome to my Personal and Professional World
 
@@ -11,15 +11,15 @@ Howdy, I'm Mitch Torkelson, a marine scientist and geospatial analyst with a dee
 
 ## About Me
 
-Discover more [about my academic and professional journey](/mitchtorkportfolio/about), including my studies in marine science, interests, and hobbies.
+Discover more [about my academic and professional journey](/mitchtork/about), including my studies in marine science, interests, and hobbies.
 
 ## Highlighted Projects and Research
 
-Explore my projects regarding satellite imagery analysis to ocean conservation efforts on my [Projects page](/mitchtorkportfolio/projects).
+Explore my projects regarding satellite imagery analysis to ocean conservation efforts on my [Projects page](/mitchtork/projects).
 
 ## Experience
 
-Gain insight into my professional background and the roles I've played on my [Experience page](/mitchtorkportfolio/experience).
+Gain insight into my professional background and the roles I've played on my [Experience page](/mitchtork/experience).
 
 
 ## Connect With Me
