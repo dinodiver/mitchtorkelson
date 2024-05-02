@@ -26,16 +26,17 @@ esri_ocean.add_to(map_dive_locations)
 # HTML to display stats
 html = f"""
 <div style="position: fixed; top: 10px; left: 50%; transform: translateX(-50%);
-            width: 300px; height: 80px; background: rgba(0, 0, 0, 0.8); border-radius: 5px;
-            padding: 10px; z-index: 9999; color: white; font-size: 16px;">
-    <strong>Dive Stats:</strong><br>
-    Total Dives: {total_dive_count}<br>
-    Total Time Underwater: {total_dive_time_hours}h {remaining_minutes}m
+            width: auto; padding: 10px 20px; background: rgba(0, 0, 0, 0.85); 
+            border-radius: 10px; border: 1px solid #0078A8; box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+            z-index: 9999; color: white; font-size: 16px; font-family: Arial, sans-serif;
+            text-align: center;">
+    <strong>Dive Stats:</strong> {total_dive_count} Dives | {total_dive_time_hours}h {remaining_minutes}m Underwater
 </div>
 """
 
-# Add HTML to the map
+# Add this HTML to the map using folium
 map_dive_locations.get_root().html.add_child(folium.Element(html))
+
 
 # Save the map
 map_dive_locations.save('/Users/mitchtork/website/assets/files/DiveLog.html')

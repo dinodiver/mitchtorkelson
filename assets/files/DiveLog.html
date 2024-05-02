@@ -25,7 +25,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_26bde9489e02a4a1441d1c7d43da45ed {
+                #map_6e5cc5b30607e1bf683b8f9fb74a75ed {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -40,21 +40,21 @@
     
     
 <div style="position: fixed; top: 10px; left: 50%; transform: translateX(-50%);
-            width: 300px; height: 80px; background: rgba(0, 0, 0, 0.8); border-radius: 5px;
-            padding: 10px; z-index: 9999; color: white; font-size: 16px;">
-    <strong>Dive Stats:</strong><br>
-    Total Dives: 290<br>
-    Total Time Underwater: 264h 33m
+            width: auto; padding: 10px 20px; background: rgba(0, 0, 0, 0.85); 
+            border-radius: 10px; border: 1px solid #0078A8; box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+            z-index: 9999; color: white; font-size: 16px; font-family: Arial, sans-serif;
+            text-align: center;">
+    <strong>Dive Stats:</strong> 290 Dives | 264h 33m Underwater
 </div>
     
-            <div class="folium-map" id="map_26bde9489e02a4a1441d1c7d43da45ed" ></div>
+            <div class="folium-map" id="map_6e5cc5b30607e1bf683b8f9fb74a75ed" ></div>
         
 </body>
 <script>
     
     
-            var map_26bde9489e02a4a1441d1c7d43da45ed = L.map(
-                "map_26bde9489e02a4a1441d1c7d43da45ed",
+            var map_6e5cc5b30607e1bf683b8f9fb74a75ed = L.map(
+                "map_6e5cc5b30607e1bf683b8f9fb74a75ed",
                 {
                     center: [0.0, 0.0],
                     crs: L.CRS.EPSG3857,
@@ -68,13 +68,13 @@
 
         
     
-            var tile_layer_70fcb785868108934308d26c8136788c = L.tileLayer(
+            var tile_layer_9a221b3e99f5fb9630facae0dda7de75 = L.tileLayer(
                 "https://server.arcgisonline.com/ArcGIS/rest/services/Ocean_Basemap/MapServer/tile/{z}/{y}/{x}",
                 {"attribution": "Esri", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
             );
         
     
-            tile_layer_70fcb785868108934308d26c8136788c.addTo(map_26bde9489e02a4a1441d1c7d43da45ed);
+            tile_layer_9a221b3e99f5fb9630facae0dda7de75.addTo(map_6e5cc5b30607e1bf683b8f9fb74a75ed);
         
 </script>
 </html>
