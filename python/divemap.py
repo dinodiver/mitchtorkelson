@@ -27,7 +27,7 @@ for index, row in dive_data.iterrows():
     folium.Marker(
         location=[row['lat'], row['lon']],
         popup=f"Dive #{row['Dive #']}: {row['Location']}<br>Time: {row['Dive Time (min)']} minutes",
-        icon=folium.Icon(icon='sunglasses')
+        icon=folium.Icon(icon='tint')
     ).add_to(marker_cluster)
 
 # HTML to display stats
