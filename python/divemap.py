@@ -1,5 +1,6 @@
 import pandas as pd
 import folium
+from folium.plugins import MarkerCluster
 
 # Load your CSV file containing dive data
 dive_data = pd.read_csv('/Users/mitchtork/website/assets/files/DiveLog.csv')
@@ -20,6 +21,14 @@ map_dive_locations = folium.Map(location=[mean_lat, mean_lon], zoom_start=4)
 # Add the Stamen Terrain tiles with proper attribution
 folium.TileLayer('Stamen Watercolor', attr='Map data © OpenStreetMap contributors, CC-BY-SA, Imagery © Stamen Design').add_to(map_dive_locations)
 
+marker_cluster = MarkerCluster().add_to(map_dive_locations)
+for index, row in dive_data.iterrows():
+    folium.Marker(
+        location=[row['lat'], row['lon']],
+        popup=f"Dive #{row['Dive #']}: {row['Location']}<br>Time: {row['Dive Time (min)']} minutes",
+        icon=folium.Icon(icon='cloud')
+    ).add_to(marker_cluster)
+    
 # HTML to display stats
 html = f"""
 <div style="position: fixed; top: 10px; left: 50%; transform: translateX(-50%);
