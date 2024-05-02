@@ -1,6 +1,6 @@
 title: Mitch Torkelson
 description: "Welcome to my portfolio site where I showcase my academic achievements, professional work, and ongoing projects. Dive in to learn more about my journey and expertise."
-baseurl: "/flexible-jekyll"  # Adjusted to new theme's baseurl
+baseurl: "/mitchtork"  # Adjusted to new theme's baseurl
 url: "https://dinodiver.github.io"
 
 # Author Settings
