@@ -2,7 +2,7 @@
 layout: cv
 ---
 ### EDUCATION
-**M.S. Marine Science – Aug 2024**  
+**M.S. Marine Science – Expected Aug 2024**  
 *University of North Carolina-Wilmington, Wilmington, NC*  
 Focus: Ocean Color Remote Sensing
 
@@ -13,6 +13,14 @@ Minor: Environmental Science
 **STUDY ABROAD, Aug 2018 – Dec 2018**  
 *Universidad San Francisco de Quito-Galápagos, San Cristóbal Island, Galápagos Islands, Ecuador*
 Focus: Marine Biology
+
+### CERTIFICATIONS
+**GISP (Geographic Information Systems Professional) – Expected Aug 2024**  
+*Certification Authority: GIS Certification Institute*  
+Anticipated completion concurrent with M.S. degree, demonstrating proficiency in geospatial data analysis, project management, and ethical GIS practices.
+
+**GEOINT (Geospatial Intelligence) Certification – Expected Aug 2024**  
+Anticipated completion concurrent with M.S. degree, focusing on the application of geospatial intelligence in national security and environmental monitoring.
 
 ### PROFESSIONAL EXPERIENCE
 **Geospatial Analyst, Mar 2023 - Mar 2024**  
