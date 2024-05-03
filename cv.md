@@ -1,125 +1,82 @@
 ---
 layout: cv
 ---
-## Education
-
-### M.S. Marine Science
-**University of North Carolina Wilmington**  
-Wilmington, North Carolina  
-August 2022 – Present   
+### EDUCATION
+**M.S. Marine Science – August 2024**  
+*University of North Carolina-Wilmington, Wilmington, NC*  
 Focus: Ocean Color Remote Sensing
 
-### B.S. Biology
-**Creighton University**  
-Omaha, Nebraska  
-August 2015 – May 2019  
+**B.S. Biology – May 2019**  
+*Creighton University, Omaha, Nebraska*  
 Minor: Environmental Science
 
-### Study Abroad
-**Universidad San Francisco de Quito-Galápagos**   
-San Cristóbal Island, Galápago Islands, Ecuador    
-August 2018 – December 2018   
-Focus: Marine Biology  
+## STUDY ABROAD
+**Marine Biology, August 2018 – December 2018**  
+*Universidad San Francisco de Quito-Galápagos, San Cristóbal Island, Galápagos Islands, Ecuador*
 
-## Professional
-
-### Geospatial Analyst
-**GeoNXS Solutions, LLC**  
-Wilmington, North Carolina  
-2023 - Present  
-
-- Specialized in utilizing ESRI ArcGIS Pro for digitization of land features, spatial analysis, and map generation.
-- Excelled in collecting, cleaning, and analyzing geographic data to derive valuable insights, supporting decision-making processes in marine conservation.
+### PROFESSIONAL EXPERIENCE
+**Geospatial Analyst, Mar 2023 - Mar 2024**  
+*GeoNXS Solutions, LLC, Wilmington, North Carolina*  
+- Utilized ESRI ArcGIS Pro for digitization of land features, spatial analysis, and map generation.  
+- Collected, cleaned, and analyzed geographic data, supporting decision-making in marine conservation.  
 - Skills: Data Collection, ArcGIS Products, Databases, Statistical Data Analysis, Analytical Skills.
 
-### Graduate Research Assistant
-**University of North Carolina Wilmington**  
-Wilmington, North Carolina  
-Aug 2022 - Present  
-
-- Conducted comparative study on the accuracy of HawkEye ocean color imagery against in-situ measurements in the Cape Fear River Estuary.
-- Played a key role in collecting 3D sea-truthing data and analyzing high-resolution ocean color imagery.
+**Graduate Research Assistant, Aug 2022 - Aug 2024**  
+*University of North Carolina-Wilmington, Wilmington, NC*  
+- Conducted a comparative study on the accuracy of HawkEye ocean color imagery against in-situ measurements.  
+- Collected 3D sea-truthing data and analyzed high-resolution ocean color imagery.  
 - Skills: Ocean Color Remote Sensing, SeaDAS, Coastal Processes, Teaching, Image Analysis, Statistical Data Analysis.
 
-### SCUBA Divemaster
-**Aquatic Safaris**  
-Wilmington, North Carolina  
-Feb 2022 - Aug 2022  
-
-- Led SCUBA divers on explorations of wrecks, ledges, and reefs, ensuring safety and providing exceptional customer service.
+**SCUBA Divemaster, Feb 2022 - Aug 2022**  
+*Aquatic Safaris, Wilmington, NC*  
+- Led SCUBA divers on explorations of wrecks, ledges, and reefs, ensuring safety and providing exceptional customer service.  
 - Skills: Equipment Maintenance, First Mate, Retail Sales, Guided Tours, PADI Divemaster.
 
-### First Mate
-**RED Hospitality & Leisure LLC**  
-Key Largo, Florida  
-Aug 2021 - Dec 2021  
-
-- Facilitated daily yacht cruises in the Florida Keys and Everglades National Park, providing top-notch customer service and ensuring guests' safety.
+**First Mate, Aug 2021 - Dec 2021**  
+*RED Hospitality & Leisure LLC, Key Largo, FL*  
+- Facilitated daily yacht cruises in the Florida Keys and Everglades National Park.  
 - Skills: Sustainable Tourism, Ecotourism, Guided Tours, Food & Beverage, Yacht Charters.
 
-### Conservation Intern
-**Coral Restoration Foundation™**  
-Key Largo, Florida  
-Jan 2021 - Aug 2021  
+**Conservation Intern, Jan 2021 - Aug 2021**  
+*Coral Restoration Foundation™, Key Largo, FL*  
+- Managed health of coral in offshore nurseries and led public dive programs for coral planting.  
+- Skills: Public Speaking, Public Outreach, Data Analysis, Leadership, Scuba Diving, Field Research, Conservation, Restoration.
 
-- Managed health of coral in offshore nurseries and led public dive programs for coral planting, contributing significantly to reef restoration efforts.
-- Skills: Public Speaking, Public Outreach, Data Analysis, Leadership, Scuba Diving, Field Research, Convservation, Restoration.
-
-### Substitute Teacher
-**Smithville High School**  
-Smithville, Missouri  
-Aug 2019 - Mar 2020  
-
-- Fulfilled short-term and long-term teaching requirements for K-12, utilizing existing plans to continue education and reinforce core concepts.
+**Substitute Teacher, Aug 2019 - Mar 2020**  
+*Smithville High School, Smithville, MO*  
+- Fulfilled short-term and long-term teaching requirements for K-12, continuing education and reinforcing core concepts.  
 - Skills: Public Speaking, Classroom Management, Student Engagement, Teaching, Positive Discipline.
 
-### Research Assistant
-**University of Georgia-Marine Institute**  
-Sapelo Island, Georgia  
-May 2019 - Aug 2019  
+**Research Assistant, May 2019 - Aug 2019**  
+*University of Georgia-Marine Institute, Sapelo Island, GA*  
+- Collaborated in mapping coastal U.S. salt marsh ecosystems using drone photography and remote sensing.  
+- Skills: Drone Photography, Interdisciplinary Collaboration, GIS, Small Boat Operations, Remote Sensing.
 
-- Collaborated in mapping coastal United States salt marsh ecosystems, utilizing drone photography and remote sensing software for vegetation coverage analysis.
-- Skills: Drone Photography, Interdisciplinary Collaboration, Geographic Information Systems (GIS), Small Boat Operations, Remote Sensing.
-
-## Conference and Poster Presentations
-
-### Evaluating the Accuracy of HawkEye Ocean Color Imagery
+### CONFERENCES AND PRESENTATIONS
 **NC Water Resources Research Institute (WRRI) Annual Conference**  
-**Location:** NC State Campus, Raleigh, NC  
-**Date:** March 2024  
-**Summary:** Evaluated the accuracy of HawkEye satellite sensors in capturing ocean color imagery, focusing on its application in coastal and estuarine environments.  
+*Raleigh, NC, March 2024*  
+- Evaluated HawkEye satellite sensors in capturing ocean color imagery for coastal and estuarine environments.  
 [View Poster](https://dinodiver.github.io/mitchtork/assets/pdf/WRRI_poster.pdf)
 
-### HawkEye’s High-Resolution Reveals Fine-Scale Coastal Variability
 **CMS Research Showcase**  
-**Location:** UNCW, Wilmington, NC  
-**Date:** February 2024  
-**Audience:** Presented findings to U.S. Secretary of the Interior Deb Haaland and BOEM Director Liz Klein, highlighting the capabilities of high-resolution satellite data.  
+*UNCW, Wilmington, NC, February 2024*  
+- Presented findings to U.S. Secretary of the Interior Deb Haaland and BOEM Director Liz Klein on high-resolution HawkEye data.  
 [View Poster](https://dinodiver.github.io/mitchtork/assets/pdf/cms_summer_23.pdf)
 
-### HawkEye’s High-Resolution Reveals Fine-Scale Coastal Variability
 **CMS Research Showcase**  
-**Location:** UNCW, Wilmington, NC  
-**Date:** April 2023  
-**Summary:** Demonstrated how HawkEye’s high-resolution imagery can reveal detailed patterns in coastal processes.  
+*UNCW, Wilmington, NC, April 2023*  
+- Demonstrated capabilities of high-resolution HawkEye data in revealing fine-scale coastal variability.  
 [View Poster](https://dinodiver.github.io/mitchtork/assets/pdf/cms_summer_23.pdf)
 
-### Satellite Imagery reveals chlorophyll-a, TSM, and CDOM content of South Atlantic Bight
 **Creighton Undergraduate Research Showcase**  
-**Location:** Creighton University, Omaha, NE  
-**Date:** May 2019  
-**Summary:** Showcased the use of satellite imagery in identifying chlorophyll concentrations and other oceanographic parameters in the South Atlantic Bight.  
+*Creighton University, Omaha, NE, May 2019*  
+- Showcased satellite imagery use in identifying chlorophyll and other oceanographic parameters in the South Atlantic Bight.
 
-### Arrowheads vs. The Megafauna
 **Omaha in the Anthropocene**  
-**Location:** The Durham Museum, Omaha, NE  
-**Date:** December 2017  
-**Summary:** Presented research on the impact of ancient hunting tools on megafaunal populations.    
+*The Durham Museum, Omaha, NE, December 2017*  
+- Presented research on the impact of ancient hunting tools on megafaunal populations.  
 [View Poster](https://dinodiver.github.io/mitchtork/assets/pdf/arrowheads_vs_megafauna.pdf)
 
-### IRB, A Place Ballot of Resistance
 **Summer Research Institute**  
-**Location:** Creighton University, Omaha, NE  
-**Date:** August 2017  
-**Summary:** Explored the impact of gentrification on the neighborhoods of Bemis and Gifford Park, focusing on its effects on local residents and community dynamics. 
-
+*Creighton University, Omaha, NE, August 2017*  
+- Explored gentrification impacts in the Bemis and Gifford Park neighborhoods.
