@@ -2,7 +2,7 @@
 layout: cv
 ---
 ### EDUCATION
-**M.S. Marine Science – August 2024**  
+**M.S. Marine Science – Aug 2024**  
 *University of North Carolina-Wilmington, Wilmington, NC*  
 Focus: Ocean Color Remote Sensing
 
@@ -10,7 +10,7 @@ Focus: Ocean Color Remote Sensing
 *Creighton University, Omaha, Nebraska*  
 Minor: Environmental Science
 
-**STUDY ABROAD, August 2018 – December 2018**  
+**STUDY ABROAD, Aug 2018 – Dec 2018**  
 *Universidad San Francisco de Quito-Galápagos, San Cristóbal Island, Galápagos Islands, Ecuador*
 Focus: Marine Biology
 
