@@ -11,7 +11,7 @@ Focus: Ocean Color Remote Sensing
 Minor: Environmental Science
 
 **STUDY ABROAD, Aug 2018 – Dec 2018**  
-*Universidad San Francisco de Quito-Galápagos, San Cristóbal Island, Galápagos Islands, Ecuador*
+*Universidad San Francisco de Quito-Galápagos, San Cristóbal Island, Galápagos Islands, Ecuador*  
 Focus: Marine Biology
 
 ### CERTIFICATIONS
@@ -46,7 +46,7 @@ Anticipated completion concurrent with M.S. degree, focusing on the application 
 - Skills: Sustainable Tourism, Ecotourism, Guided Tours, Food & Beverage, Yacht Charters.
 
 **Conservation Intern, Jan 2021 - Aug 2021**  
-*Coral Restoration Foundation™, Key Largo, FL*  
+*Coral Restoration Foundation, Key Largo, FL*  
 - Managed health of coral in offshore nurseries and led public dive programs for coral planting.  
 - Skills: Public Speaking, Public Outreach, Data Analysis, Leadership, Scuba Diving, Field Research, Conservation, Restoration.
 
