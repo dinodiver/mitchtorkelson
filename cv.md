@@ -26,7 +26,7 @@ Anticipated completion concurrent with M.S. degree, focusing on the application 
 **Geospatial Analyst, Mar 2023 - Mar 2024**  
 *GeoNXS Solutions, LLC, Wilmington, North Carolina*  
 - Utilized ESRI ArcGIS Pro for digitization of land features, spatial analysis, and map generation.  
-- Collected, cleaned, and analyzed geographic data, supporting decision-making in marine conservation.  
+- Collected, cleaned, and analyzed geographic data, supporting decision-making in data interpretation.
 - Skills: Data Collection, ArcGIS Products, Databases, Statistical Data Analysis, Analytical Skills.
 
 **Graduate Research Assistant, Aug 2022 - Aug 2024**  
