@@ -1,82 +1,86 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-        
-        <script>
-            L_NO_TOUCH = false;
-            L_DISABLE_3D = false;
-        </script>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     
-        <style>
-            html, body {
-                width: 100%;
-                height: 100%;
-                margin: 0;
-                padding: 0;
+    <script>
+        L_NO_TOUCH = false;
+        L_DISABLE_3D = false;
+    </script>
+
+    <style>
+        html, body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+        }
+        /* Popup responsive styles */
+        @media (max-width: 768px) {
+            div[style*="position: fixed;"] {
+                width: 90%;
+                font-size: 14px;
+                padding: 10px;
+                top: 5%;
+                left: 50%;
+                transform: translateX(-50%);
+                box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+                background-color: #fff;
+                border-radius: 5px;
+                overflow: auto;
             }
-        </style>
+        }
+        /* Close button style */
+        .close-btn {
+            position: absolute;
+            top: 5px;
+            right: 10px;
+            border: none;
+            background: none;
+            font-size: 20px;
+            cursor: pointer;
+        }
+    </style>
     
-        <style>
-            #map {
-                position: absolute;
-                top: 0;
-                bottom: 0;
-                right: 0;
-                left: 0;
-            }
-        </style>
-    
+        <!-- JavaScript libraries -->
         <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
         <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
-    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+
+        <!-- CSS for Leaflet, Bootstrap, FontAwesome, and Leaflet plugins -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
         <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
-    
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         
         <style>
             #map_4c987a3b74ba31b18e5b27fdf9057b68 {
                 position: relative;
-                width: 100.0%;
-                height: 100.0%;
-                left: 0.0%;
-                top: 0.0%;
+                width: 100%;
+                height: 100%;
+                left: 0;
+                top: 0;
             }
             .leaflet-container {
                 font-size: 1rem;
             }
-    
-            /* Responsive adjustments for smaller screens */
-            @media (max-width: 768px) {
-                div[style*="position: fixed; top: 10px; left: 50%; transform: translateX(-50%);"] {
-                    width: 90%; /* Adjust width to be more responsive */
-                    font-size: 14px; /* Smaller font size for readability on small devices */
-                    padding: 5px 10px; /* Adequate padding for touch interactions */
-                    top: 5px; /* Reposition to top of the page */
-                    left: 50%; /* Center horizontally */
-                    transform: translateX(-50%); /* Ensure it stays centered */
-                    box-shadow: 0 2px 4px rgba(0,0,0,0.2); /* Optional: adds shadow for better visibility */
-                    background-color: #fff; /* Ensures the background is solid white */
-                    border-radius: 5px; /* Soften edges with rounded corners */
-                    overflow: auto; /* Allows scrolling within the popup if content is too long */
-                }
-            }
         </style>
-    
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
-    </head>
-<body>
-    
-    
+</head>
+<body>   
 <div style="position: fixed; top: 10px; left: 50%; transform: translateX(-50%);
             width: auto; padding: 10px 20px; background: rgba(0, 0, 0, 0.85); 
             border-radius: 10px; border: 1px solid #0078A8; box-shadow: 0 2px 4px rgba(0,0,0,0.5);
