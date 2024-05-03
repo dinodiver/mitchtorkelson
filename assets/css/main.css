@@ -1126,7 +1126,7 @@ footer .copyright {
 .post img {
   width: 100%;  /* Adjusts the width of the image to fit the container */
   height: auto; /* Keeps the aspect ratio intact */
-  object-fit: contain; /* Ensures the image is fully visible within the frame, without being cropped */
+  object-fit: cover; /* Ensures the image is fully visible within the frame, without being cropped */
 }
 
 .post:hover {
