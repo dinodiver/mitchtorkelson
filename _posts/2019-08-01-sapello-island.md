@@ -3,7 +3,7 @@ layout: post
 title: "Mapping Spartina Alterniflora on Sapelo Island"
 date: 2019-08-01 00:00:00 -0700
 description: "An intensive study combining remote sensing and direct sampling to map and analyze Spartina alterniflora on Sapelo Island, GA."
-img: drone1.jpeg
+img: drone1.jpg
 tags: [salt marsh ecology, remote sensing, drone mapping, coastal conservation, in-situ data]
 categories: research
 ---
@@ -16,14 +16,14 @@ Since 2002, the Georgia Coastal Ecosystem Long Term Ecological Research (LTER) s
 
 ## Methodology
 We combined traditional remote sensing techniques with cutting-edge drone technology to achieve high-resolution data collection. Utilizing Landsat 5 Thematic Mapper satellite data, we gained broad regional snapshots of the marshlands, complemented by drone flights with a DJI Matrice 210 equipped with a 6-band Micasense Altum camera that provided localized, detailed multispectral images. This approach allowed us to perform precise biomass estimations and validate them against ground-truth data.
-![Landsat 5 TM - Sapelo Island](/mitchtork/assets/img/for_posts/sapelo-satellite.jpeg)
+![Landsat 5 TM - Sapelo Island](/mitchtork/assets/img/for_posts/sapelo-satellite.jpg)
 *Figure: Landsat 5 color infrared image of Sapelo Island, GA and surrounding marshes showing pixel clusters of different Marsh Cordgrass size classes within the study site. Image credit: O’Donnell and Schalles, 2016.*
  
-![Dji Matrice](/mitchtork/assets/img/for_posts/drone2.jpeg)
+![Dji Matrice](/mitchtork/assets/img/for_posts/drone2.jpg)
 *Figure: Dji Matrice equipped with the 6-band Micasense Altum multispectral sensor.*
 
 To ground-truth our remote sensing data and gain direct ecological measurements, we conducted biomass sampling. This involved clipping Spartina plants within designated plots, drying them in a lab to remove all moisture, and weighing the dried samples. This process helped us quantify the biomass and validate the health assessments derived from our imagery. Trekking through salt marshes is muddy work!  
-![Salt grass collection](/mitchtork/assets/img/for_posts/field-collection.jpeg)
+![Salt grass collection](/mitchtork/assets/img/for_posts/field-collection.jpg)
 *Figure: In the muck collected Spartina samples. (right: John Schalles, middle: Harrison Currin, right: Me).*
 
 ## Findings and Impact

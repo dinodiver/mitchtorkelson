@@ -3,7 +3,7 @@ layout: post
 title: "Understanding Coastal Water Quality at the Masonboro Inlet"
 date: 2023-05-05  00:00:00 -0700
 description: "Observing the coastal water quality physical and chemical processes with 3-dimensional in-situ measurments."
-img: masonboro_inlet.jpeg
+img: masonboro_inlet.jpg
 tags: [coastal water quality, in-situ data, marine science, oceanography, estuarine monitoring]
 categories: research
 ---
