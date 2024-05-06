@@ -6,7 +6,7 @@ layout: main
 
   <article class="post">
     {% if post.img %}
-    <a class="post-thumbnail" style="background-image: url('{{ site.baseurl }}/assets/img/for_posts{{ post.img }}');" href="{{ post.url | prepend: site.baseurl }}">
+    <a class="post-thumbnail" style="background-image: url('{{ site.baseurl }}/assets/img/for_posts/{{ post.img }}');" href="{{ post.url | prepend: site.baseurl }}">
       Debug: {{ site.baseurl }}/assets/img/for_posts{{ post.img }}
     </a>    
     {% else %}
