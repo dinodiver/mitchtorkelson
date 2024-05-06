@@ -22,6 +22,8 @@ Anticipated completion concurrent with M.S. degree, demonstrating proficiency in
 **GEOINT (Geospatial Intelligence) Certification – Expected Aug 2024**  
 Anticipated completion concurrent with M.S. degree, focusing on the application of geospatial intelligence in national security and environmental monitoring.
 
+**PADI Divemaster - Dec 2021**
+
 ### PROFESSIONAL EXPERIENCE
 **Geospatial Analyst, Mar 2023 - Mar 2024**  
 *GeoNXS Solutions, LLC, Wilmington, North Carolina*  
