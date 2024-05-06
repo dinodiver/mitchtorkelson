@@ -1218,8 +1218,7 @@ a.newer-posts:hover {
 }
 
 .page-cover-image {
-  size: cover;
-  position: center;
+  position: relative;
   padding: 0;
   margin: 0;
   max-height: 500px;
