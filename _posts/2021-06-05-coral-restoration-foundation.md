@@ -3,7 +3,7 @@ layout: post
 title: "Reviving Reefs: An Internship with Coral Restoration Foundation"
 date: 2021-06-05  00:00:00 -0700
 description: "A firsthand account of coral restoration efforts with the Coral Restoration Foundation in Key Largo, Florida."
-img: crf_jeremy.jpg  # Ensure this image is relevant and located in your assets folder
+img: /assets/img/for_posts/crf_jeremy.jpg
 tags: [coral restoration, marine conservation, environmental education, scuba diving]
 categories: research
 ---
