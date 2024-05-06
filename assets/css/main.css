@@ -1484,3 +1484,19 @@ a.newer-posts:hover {
     height: 100%;
     border: 0;
 }
+
+/* Video container styling for better layout control */
+.video-container {
+  max-width: 640px; /* Adjust this value based on your content area size */
+  margin: 20px auto; /* Centers the video and adds space above and below */
+  overflow: hidden; /* Optional: prevents content from overflowing */
+}
+
+.video-container video {
+  width: 100%; /* Makes the video responsive */
+  height: auto;  /* Maintain aspect ratio */
+  max-width: 640px; /* Adjust max width as needed */
+  display: block; /* Align video properly */
+  margin: 0 auto; /* Center align the video */
+}
+
