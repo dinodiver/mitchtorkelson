@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Mapping Spartina alterniflora on Sapelo Island"
+title: "Mapping *Spartina alterniflora* on Sapelo Island"
 date: 2019-08-01 00:00:00 -0700
-description: "An intensive study combining remote sensing and direct sampling to map and analyze Spartina alterniflora on Sapelo Island, GA."
+description: "An intensive study combining remote sensing and direct sampling to map and analyze *Spartina alterniflora* on Sapelo Island, GA."
 img: drone1.jpg
 tags: [salt marsh ecology, remote sensing, drone mapping, coastal conservation, in-situ data]
 categories: research
 ---
 
 ## Introduction
-I had the invaluable opportunity to join Dr. John Schalles’s research team on Sapelo Island, Georgia, focusing on Spartina alterniflora—a key species in salt marsh ecosystems along the East Coast of the United States. Our primary goal was not only to map its distribution but also to understand its ecological roles in the face of escalating climate impacts.  
+I had the invaluable opportunity to join Dr. John Schalles’s research team on Sapelo Island, Georgia, focusing on *Spartina alterniflora*—a key species in salt marsh ecosystems along the East Coast of the United States. Our primary goal was not only to map its distribution but also to understand its ecological roles in the face of escalating climate impacts.  
 
 ## Project Background
-Since 2002, the Georgia Coastal Ecosystem Long Term Ecological Research (LTER) site has utilized drone, airborne hyperspectral, and satellite imagery to analyze temporal and spatial productivity patterns in coastal ecosystems. Our research on Sapelo Island focuses on the critical Spartina alterniflora, commonly known as smooth cordgrass. This species is fundamental to coastal marsh ecosystems, providing erosion control and habitat structure. The study investigates the significant decline in Spartina growth since the early 2000s, attributed to factors including storm surge effects, creek head erosion by mud crabs, marsh die-back from snail predation, and rising sea levels. Additionally, we explore how river discharge and sea level fluctuations impact the biomass and health of these grasses, essential for devising effective conservation strategies.  
+Since 2002, the Georgia Coastal Ecosystem Long Term Ecological Research (LTER) site has utilized drone, airborne hyperspectral, and satellite imagery to analyze temporal and spatial productivity patterns in coastal ecosystems. Our research on Sapelo Island focuses on the critical *Spartina alterniflora*, commonly known as smooth cordgrass. This species is fundamental to coastal marsh ecosystems, providing erosion control and habitat structure. The study investigates the significant decline in Spartina growth since the early 2000s, attributed to factors including storm surge effects, creek head erosion by mud crabs, marsh die-back from snail predation, and rising sea levels. Additionally, we explore how river discharge and sea level fluctuations impact the biomass and health of these grasses, essential for devising effective conservation strategies.  
 
 ## Methodology
 We combined traditional remote sensing techniques with cutting-edge drone technology to achieve high-resolution data collection. Utilizing Landsat 5 Thematic Mapper satellite data, we gained broad regional snapshots of the marshlands, complemented by drone flights with a DJI Matrice 210 equipped with a 6-band Micasense Altum camera that provided localized, detailed multispectral images. This approach allowed us to perform precise biomass estimations and validate them against ground-truth data.    
