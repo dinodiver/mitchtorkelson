@@ -21,7 +21,7 @@ Throughout my internship, my activities ranged from the nursery to the reef, eac
 I learned how to care for and maintain different species of corals, particularly the endangered _Acropora cervicornis_ and _Acropora palmata_. Nursery duties involved cleaning and preparing coral fragments on PVC trees and monitoring their health and growth.
 
 **Video: Nursery Maintenance**
-`<video controls src="/mitchtork/assets/img/for_posts/hanging_coral.mov" poster="/mitchtork/assets/img/for_posts/hanging_coral_thumbnail.jpg">Your browser does not support the video tag.</video>`
+<video controls src="/mitchtork/assets/img/for_posts/hanging_coral.mov" poster="/mitchtork/assets/img/for_posts/hanging_coral_thumbnail.jpg">Your browser does not support the video tag.</video>
 
 ### Outplanting Missions
 The most rewarding part of the internship was participating in outplanting missions. We would fragment healthy corals that had reached a suitable size in the nursery and then securely attach them to designated reef sites. This process not only required careful handling of the corals but also precise underwater skills to ensure successful transplantation.
