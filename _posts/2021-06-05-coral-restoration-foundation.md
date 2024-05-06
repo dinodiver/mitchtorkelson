@@ -18,12 +18,12 @@ Coral reefs are facing unprecedented threats from climate change, pollution, and
 Throughout my internship, my activities ranged from the nursery to the reef, each day packed with hands-on tasks and valuable lessons:
 
 ### Off-Shore Nursery Work
-I learned how to care for and maintain different species of corals, particularly the endangered _Acropora cervicornis_ and _Acropora palmata_. Nursery duties involved cleaning and preparing coral fragments on PVC trees and monitoring their health and growth.
+I learned how to care for and maintain different species of corals, particularly the endangered *Acropora cervicornis* and *Acropora palmata*. Nursery duties involved cleaning and preparing coral fragments on PVC trees and monitoring their health and growth.  
 ![Hanging Elkhorn Coral](/mitchtork/assets/img/for_posts/coral-nursery.jpg)
 *Figure: A swim through the offshore nursery. Overtime the hanging coral fragments will grow until they're about the size of a basketball, in which time they'll be fragmented and outplanted to the reef.*
 
 ### Outplanting Missions
-The most rewarding part of the internship was participating in outplanting missions. We would fragment healthy corals that had reached a suitable size in the nursery and then securely attach them to designated reef sites. This process not only required careful handling of the corals but also precise underwater skills to ensure successful transplantation.
+The most rewarding part of the internship was participating in outplanting missions. We would fragment healthy corals that had reached a suitable size in the nursery and then securely attach them to designated reef sites. This process not only required careful handling of the corals but also precise underwater skills to ensure successful transplantation.  
 ![Coral Outplanting](/mitchtork/assets/img/for_posts/outplanting.jpg)
 *Figure: Outplanting coral onto the reef, using 2-part marine epoxy to ensure stable attachment.*
 
@@ -31,14 +31,14 @@ The most rewarding part of the internship was participating in outplanting missi
 Post-outplanting, we conducted regular monitoring to assess the survival and integration of the corals into their new environments. Data collection involved measuring growth rates, assessing health, and documenting any signs of bleaching or disease.
 
 ### Coral Collecting
-An integral part of our conservation efforts involved rescuing corals from underwater infrastructures like bridge pylons and cement bases scheduled for construction. This proactive rescue mission entailed carefully collecting these naturally settled corals and relocating them to our nursery. There, they were nurtured until they could be safely reintroduced to their natural reef habitats, thus ensuring their survival and contributing to the reef's ecological health.
+An integral part of our conservation efforts involved rescuing corals from underwater infrastructures like bridge pylons and cement bases scheduled for construction. This proactive rescue mission entailed carefully collecting these naturally settled corals and relocating them to our nursery. There, they were nurtured until they could be safely reintroduced to their natural reef habitats, thus ensuring their survival and contributing to the reef's ecological health.  
 ![Collected Coral](/mitchtork/assets/img/for_posts/channel5.jpg)
 *Figure: Naturally growing coral rescued from a bridge pylon that was scheduled for construction. It was placed in the nursery to be later outplanted safely on the reef.*
 
 ### Community Engagement and Education
-CRF places a strong emphasis on educating the public about coral reefs and the importance of their conservation. I participated in workshops and gave presentations to visitors, school groups, volunteers, and boy scouts at SeaBase High Adventure Camp, spreading awareness and fostering community involvement.
-![CRF Outreach Event](/mitchtork/assets/img/for_posts/crf-jeremy.jpg)
-*Figure: CRF representation at a local Keys community event (From left: Jeremy, Me).*
+CRF places a strong emphasis on educating the public about coral reefs and the importance of their conservation. I participated in workshops and gave presentations to visitors, school groups, volunteers, and boy scouts at SeaBase High Adventure Camp, spreading awareness and fostering community involvement.  
+![CRF Outreach Event](/mitchtork/assets/img/for_posts/outreach-jeremy.jpg)
+*Figure: CRF representation at a local Keys community event (From left: Me, Jeremy Goodsnyder).*
 
 ## Impact and Reflections
 The hands-on experience significantly enhanced my understanding of marine biology and conservation practices. It provided me with a profound appreciation of the complexities involved in coral restoration and the innovative approaches being developed to address these challenges.
