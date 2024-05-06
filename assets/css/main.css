@@ -1137,7 +1137,7 @@ footer .copyright {
           box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
 }
 
-.post .post-thumbnail {
+.post-thumbnail {
   width: 30%;
   max-width: 100%;
   min-height: 11rem;
