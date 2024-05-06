@@ -26,9 +26,6 @@ I learned how to care for and maintain different species of corals, particularly
 ### Outplanting Missions
 The most rewarding part of the internship was participating in outplanting missions. We would fragment healthy corals that had reached a suitable size in the nursery and then securely attach them to designated reef sites. This process not only required careful handling of the corals but also precise underwater skills to ensure successful transplantation.
 
-**Video: Outplanting Process**
-`<video controls src="/mitchtork/assets/img/for_posts/outplanting.mov" poster="/mitchtork/assets/img/for_posts/outplanting_thumbnail.jpg">Your browser does not support the video tag.</video>`
-
 ### Data Collection and Monitoring
 Post-outplanting, we conducted regular monitoring to assess the survival and integration of the corals into their new environments. Data collection involved measuring growth rates, assessing health, and documenting any signs of bleaching or disease.
 
