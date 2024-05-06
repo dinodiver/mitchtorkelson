@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Understanding Coastal Water Quality Through 3D In-Situ Data Collection"
+title: "Understanding Coastal Water Quality at the Masonboro Inlet"
 date: 2023-05-05  00:00:00 -0700
 description: "Observing the coastal water quality physical and chemical processes with 3-dimensional in-situ measurments."
 img: masonboro_inlet.jpeg
@@ -12,7 +12,7 @@ categories: research
 In our ongoing research efforts to monitor coastal water quality in the Cape Fear River Estuary, in-situ data collection remains a foundational element. This hands-on approach allows us to measure direct environmental parameters such as chlorophyll a, salinity, turbidity, and other crucial metrics. This fine-scale data helps us accurately understand the immediate conditions and processes occurring within the water column.
 
 ## The Role of In-Situ Data
-In-situ data collection provides ground-truth measurements that are essential for calibrating and validating satellite imagery data. By employing the Sea Sciences Acrobat, a towed oscillating vehicle, along with auxiliary sensors, we capture a detailed snapshot of the water column's characteristics. The Acrobat allows for rapid, high-resolution 3-dimensional profiling over large spatial areas, ensuring that we capture comprehensive information on the physical and chemical properties of the water column.
+In-situ data collection provides ground-truth measurements that are essential for calibrating and validating satellite imagery data. By employing the Sea Sciences Acrobat, a towed oscillating vehicle, along with auxiliary sensors, we capture a detailed snapshot of the water column's characteristics. The Acrobat allows for rapid, high-resolution, 3-dimensional profiling over large spatial areas, ensuring that we capture comprehensive information on the physical and chemical properties of the water column.
 
 ![In Situ Sampling Setup](/mitchtork/assets/img/for_posts/Acrobat.png)
 *Figure: Deploying the Acrobat during an in-situ data collection mission.*
@@ -32,8 +32,8 @@ This 3D method of data collection is vital for a comprehensive understanding of 
 *Figure: Linearly interpolated chlorophyll a measurements collected along the transects.*
 
 ## Additional Considerations
-Temporal Variability: In-situ data collection over different seasons and tidal cycles provides insight into the temporal changes affecting estuarine water quality.
-Environmental Monitoring: The data collected helps to identify potential areas of concern related to pollution, eutrophication, or sediment resuspension.
-Model Validation: These ground-based measurements serve as calibration and validation points for predictive models that aim to forecast future conditions.
+- **Temporal Variability:** In-situ data collection over different seasons and tidal cycles provides insight into the temporal changes affecting estuarine water quality.
+- **Environmental Monitoring:** The data collected helps to identify potential areas of concern related to pollution, eutrophication, or sediment resuspension.
+- **Model Validation:** These ground-based measurements serve as calibration and validation points for predictive models that aim to forecast future conditions.
 
 For more detailed insights into our in-situ data findings, stay tuned to our upcoming posts!
