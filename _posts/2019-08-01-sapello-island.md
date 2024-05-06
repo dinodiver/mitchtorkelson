@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mapping Spartina Alterniflora on Sapelo Island"
+title: "Mapping Spartina alterniflora on Sapelo Island"
 date: 2019-08-01 00:00:00 -0700
 description: "An intensive study combining remote sensing and direct sampling to map and analyze Spartina alterniflora on Sapelo Island, GA."
 img: drone1.jpg
@@ -24,7 +24,7 @@ We combined traditional remote sensing techniques with cutting-edge drone techno
 
 To ground-truth our remote sensing data and gain direct ecological measurements, we conducted biomass sampling. This involved clipping Spartina plants within designated plots, drying them in a lab to remove all moisture, and weighing the dried samples. This process helped us quantify the biomass and validate the health assessments derived from our imagery. Trekking through salt marshes is muddy work!  
 ![Salt grass collection](/mitchtork/assets/img/for_posts/field-collection.jpg)
-*Figure: In the muck collected Spartina samples. (right: John Schalles, middle: Harrison Currin, right: Me).*
+*Figure: In the muck collecting Spartina samples. (From left: John Schalles, Harrison Currin, Me).*
 
 ## Findings and Impact
 Our integrated methodology, supported by high-resolution drone imagery, not only highlighted spatial and temporal trends in Spartina coverage but also detailed significant biomass declines over decades. The regression models developed from our drone flights are now being applied to adjacent marshes, enabling ongoing monitoring and rapid responses to further declines.
@@ -34,5 +34,5 @@ Working with Dr. Schalles and his team on this cutting-edge project has not only
 
 ## Additional Comments
 Alongside my research activities, I had the pleasure of participating in the 14th annual Sapelo Island Lighthouse 5K Run, an Independence Day tradition. The race follows a scenic route from the Nannygoat Beach Parking Lot to the iconic Sapelo Lighthouse and back. I was thrilled to win the race with a time of 18:42, adding an exciting personal achievement to my summer on Sapelo Island.
-![5k winner](/mitchtork/assets/img/for_posts/5k.jpeg)
-*Figure: Post 5k finish! (left: Harrison Currin, middle: Me, right: Bradley Gavrielides).*
+![5k winner](/mitchtork/assets/img/for_posts/5k.jpg)
+*Figure: Post 5k finish! (From left: Harrison Currin, Me, Bradley Gavrielides).*
