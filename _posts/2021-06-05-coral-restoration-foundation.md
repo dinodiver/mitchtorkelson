@@ -4,7 +4,7 @@ title: "Reviving Reefs: An Internship with Coral Restoration Foundation"
 date: 2021-06-05 00:00:00 -0700
 description: "A firsthand account of coral restoration efforts with the Coral Restoration Foundation in Key Largo, Florida."
 img: coral.jpg
-tags: [coral restoration, marine conservation, environmental education, scuba diving]
+tags: [coral restoration, marine conservation, environmental education, scuba diving, climate change]
 categories: research
 ---
 
