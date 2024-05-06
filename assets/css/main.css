@@ -1138,12 +1138,11 @@ footer .copyright {
 }
 
 .post-thumbnail {
-  width: 30%;
-  max-width: 100%;
-  min-height: 11rem;
-  -webkit-background-size: cover;
-          background-size: cover;
-  background-position: 50% 50%;
+  display: block;
+  width: 100%; /* Adjust based on your layout */
+  height: 200px; /* Adjust based on your layout */
+  background-size: cover;
+  background-position: center;
 }
 
 .post .post-content {
