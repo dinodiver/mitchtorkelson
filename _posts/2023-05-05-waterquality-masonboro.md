@@ -25,8 +25,8 @@ We then analyze this data to understand the three-dimensional variability of the
 ![In Situ Data Study Site](/mitchtorkelson/assets/img/for_posts/masonboro-studysite.png)
 *Figure: The path of our in-situ data collection at the mouth of the Masonboro Inlet.*
 
-## Importance of In-Situ Data
-This 3D method of data collection is vital for a comprehensive understanding of local water quality and aids significantly in environmental conservation efforts. The detailed maps created from this data show spatial patterns and variations that are not always apparent in surface measurements alone. By integrating this information with satellite data, we improve our understanding of the estuarine processes and can monitor the health of the ecosystem more effectively.
+## Results
+Our 3D in-situ data collection method provides a comprehensive understanding of local water quality, crucial for environmental conservation. Initial analyses show significant spatial and temporal variability in indicators like chlorophyll a and salinity. The detailed maps created from this data reveal clear patterns and hotspots of environmental change, illustrating variations not apparent in surface measurements alone. By integrating these findings with satellite data, we enhance our understanding of estuarine processes and improve the monitoring of the ecosystem's health and productivity.
 
 ![Chlorophyll a Data](/mitchtorkelson/assets/img/for_posts/chl.gif)
 *Figure: Linearly interpolated chlorophyll a measurements collected along the transects.*
