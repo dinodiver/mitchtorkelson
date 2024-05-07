@@ -17,15 +17,15 @@ Since 2002, the Georgia Coastal Ecosystem Long Term Ecological Research (LTER) s
 ## Methodology
 We combined traditional remote sensing techniques with cutting-edge drone technology to achieve high-resolution data collection. Utilizing Landsat 5 Thematic Mapper satellite data, we gained broad regional snapshots of the marshlands, complemented by drone flights with a DJI Matrice 210 equipped with a 6-band Micasense Altum camera that provided localized, detailed multispectral images. This approach allowed us to perform precise biomass estimations and validate them against ground-truth data.    
 
-![Landsat 5 TM - Sapelo Island](/mitchtork/assets/img/for_posts/sapelo-satellite.jpg)  
+![Landsat 5 TM - Sapelo Island](/mitchtorkelson/assets/img/for_posts/sapelo-satellite.jpg)  
 *Figure: Landsat 5 color infrared image of Sapelo Island, GA and surrounding marshes showing pixel clusters of different Marsh Cordgrass size classes within the study site. Image credit: O’Donnell and Schalles, 2016.*  
 
-![Dji Matrice](/mitchtork/assets/img/for_posts/drone2.jpg)  
+![Dji Matrice](/mitchtorkelson/assets/img/for_posts/drone2.jpg)  
 *Figure: Dji Matrice equipped with the 6-band Micasense Altum multispectral sensor.*  
 
 To ground-truth our remote sensing data and gain direct ecological measurements, we conducted biomass sampling. This involved clipping Spartina plants within designated plots, drying them in a lab to remove all moisture, and weighing the dried samples. This process helped us quantify the biomass and validate the health assessments derived from our imagery. Trekking through salt marshes is muddy work!  
 
-![Salt grass collection](/mitchtork/assets/img/for_posts/field-collection.jpg)  
+![Salt grass collection](/mitchtorkelson/assets/img/for_posts/field-collection.jpg)  
 *Figure: In the muck collecting Spartina samples. (From left: John Schalles, Harrison Currin, Me).*  
 
 ## Findings and Impact
@@ -37,5 +37,5 @@ Working with Dr. Schalles and his team on this cutting-edge project has not only
 ## Additional Comments
 Alongside my research activities, I had the pleasure of participating in the 14th annual Sapelo Island Lighthouse 5K Run, an Independence Day tradition. The race follows a scenic route from the Nannygoat Beach Parking Lot to the iconic Sapelo Lighthouse and back. I was thrilled to win the race with a time of 18:42, adding an exciting personal achievement to my summer on Sapelo Island.  
 
-![5k winner](/mitchtork/assets/img/for_posts/5k.jpg)  
+![5k winner](/mitchtorkelson/assets/img/for_posts/5k.jpg)  
 *Figure: Post 5k finish! (From left: Harrison Currin, Me, Bradley Gavrielides).*
