@@ -14,6 +14,8 @@ Minor: Environmental Science
 *Universidad San Francisco de Quito-Galápagos, San Cristóbal Island, Galápagos Islands, Ecuador*  
 Focus: Marine Biology
 
+---
+
 ### CERTIFICATIONS
 **GISP (Geographic Information Systems Professional) – Expected Aug 2024**  
 *Certification Authority: GIS Certification Institute*  
@@ -23,6 +25,8 @@ Anticipated completion concurrent with M.S. degree, demonstrating proficiency in
 Anticipated completion concurrent with M.S. degree, focusing on the application of geospatial intelligence in national security and environmental monitoring.
 
 **PADI Divemaster - Dec 2021**
+
+---
 
 ### PROFESSIONAL EXPERIENCE
 **Geospatial Analyst, Mar 2023 - Mar 2024**  
@@ -62,6 +66,8 @@ Anticipated completion concurrent with M.S. degree, focusing on the application 
 ·	Collaborated in mapping coastal U.S. salt marsh ecosystems using drone photography and remote sensing.  
 ·	Skills: Drone Photography, Interdisciplinary Collaboration, GIS, Small Boat Operations, Remote Sensing.
 
+---
+
 ### CONFERENCES AND PRESENTATIONS
 **NC Water Resources Research Institute (WRRI) Annual Conference**  
 *Raleigh, NC, March 2024*  
@@ -90,3 +96,5 @@ Anticipated completion concurrent with M.S. degree, focusing on the application 
 **Summer Research Institute**  
 *Creighton University, Omaha, NE, August 2017*  
 ·	Explored gentrification impacts in the Bemis and Gifford Park neighborhoods.
+
+---

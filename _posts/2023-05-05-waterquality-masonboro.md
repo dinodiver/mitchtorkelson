@@ -36,4 +36,6 @@ Our 3D in-situ data collection method provides a comprehensive understanding of 
 - **Environmental Monitoring:** The data collected helps to identify potential areas of concern related to pollution, eutrophication, or sediment resuspension.
 - **Model Validation:** These ground-based measurements serve as calibration and validation points for predictive models that aim to forecast future conditions.
 
-For more detailed insights into our in-situ data findings, stay tuned to our upcoming posts!
+For more detailed insights into our in-situ data findings, stay tuned to our upcoming posts!  
+
+---

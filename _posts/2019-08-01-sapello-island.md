@@ -38,4 +38,6 @@ Working with Dr. Schalles and his team on this cutting-edge project has not only
 Alongside my research activities, I had the pleasure of participating in the 14th annual Sapelo Island Lighthouse 5K Run, an Independence Day tradition. The race follows a scenic route from the Nannygoat Beach Parking Lot to the iconic Sapelo Lighthouse and back. I was thrilled to win the race with a time of 18:42, adding an exciting personal achievement to my summer on Sapelo Island.  
 
 ![5k winner](/mitchtorkelson/assets/img/for_posts/5k.jpg)  
-*Figure: Post 5k finish! (From left: Harrison Currin, Me, Bradley Gavrielides).*
+*Figure: Post 5k finish! (From left: Harrison Currin, Me, Bradley Gavrielides).*  
+
+---
