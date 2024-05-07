@@ -96,5 +96,3 @@ Anticipated completion concurrent with M.S. degree, focusing on the application 
 **Summer Research Institute**  
 *Creighton University, Omaha, NE, August 2017*  
 ·	Explored gentrification impacts in the Bemis and Gifford Park neighborhoods.
-
----
