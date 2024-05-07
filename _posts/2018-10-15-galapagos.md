@@ -77,6 +77,6 @@ During my four-month study abroad in the enchanting Galapagos Islands in the fal
 Each project taught me the intricacies of field research and the critical importance of preserving these unique ecosystems. The Galapagos Islands served as a living laboratory where I could witness the profound consequences of natural and human-induced changes on wildlife. These experiences have profoundly shaped my approach to marine science and conservation.  
 
 ![Wildlife](/mitchtork/assets/img/for_posts/wildlife-mosaic.png)  
-*Figure: This mosaic showcases four distinct species from the Galapagos Islands. Top-left: A hammerhead shark near Kicker Rock off San Cristobal. Top-right: A group of golden rays. Bottom-right: A Galapagos giant tortoise at the Isabela Tortoise Center. Bottom-left: A baby marine iguana resting on an adult, likely a parent, highlighting the diverse and unique wildlife found in the region.*
+*Figure: This mosaic showcases four distinct species from the Galapagos Islands. Top-left: A hammerhead shark near Kicker Rock off San Cristobal. Top-right: A group of golden rays. Bottom-left: A Galapagos giant tortoise at the Isabela Tortoise Center. Bottom-right: A baby marine iguana resting on an adult, likely a parent, highlighting the diverse and unique wildlife found in the region.*
 
 ---
