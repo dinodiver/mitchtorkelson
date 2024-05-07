@@ -17,7 +17,7 @@ During my four-month study abroad in the enchanting Galapagos Islands in the fal
 - **Methodology:** Utilizing beach seines to capture and study juvenile black tip reef sharks, observing their behavior and development.
 - **Impact:** This study provided critical data on shark pup populations, aiding in conservation efforts and understanding of species dynamics in their natural habitat.    
 
-![Black Tip Reef Shark](/mitchtork/assets/img/for_posts/black-tip-reef-shark.jpg)
+![Black Tip Reef Shark](/mitchtork/assets/img/for_posts/black-tip-reef-shark.jpg)  
 *Figure: A black tip reef shark aboard our research vessel as we measure and tag it.*
 
 ---
@@ -28,7 +28,7 @@ During my four-month study abroad in the enchanting Galapagos Islands in the fal
 - **Methodology:** Genetic analysis to trace adaptations and species formation, influenced by human interaction and natural selection.
 - **Insights:** This research highlighted the impact of human-induced changes on natural selection, showcasing how adaptive traits are influenced by introduced factors like food sources.  
 
-![Finch](/mitchtork/assets/img/for_posts/darwins-finches.jpg)
+![Finch](/mitchtork/assets/img/for_posts/darwins-finches.jpg)  
 *Figure: One of the iconic Darwin's finches.*
 
 ---
@@ -39,7 +39,7 @@ During my four-month study abroad in the enchanting Galapagos Islands in the fal
 - **Activities:** Capturing and tagging turtles, monitoring health and environmental interactions, particularly with marine debris.
 - **Results:** This project not only informed conservation strategies but also involved the community in scientific observation, enhancing the collective effort to mitigate environmental threats.  
 
-![Sea Turtle](/mitchtork/assets/img/for_posts/sea-turtle.jpg)
+![Sea Turtle](/mitchtork/assets/img/for_posts/sea-turtle.jpg)  
 *Figure: Here's me snorkeling alongside a sea turtle during our sea turtle density study on San Cristobal Island.*
 
 ---
@@ -51,7 +51,7 @@ During my four-month study abroad in the enchanting Galapagos Islands in the fal
 - **Methodology:** Recording and analyzing whale songs to understand patterns of cultural transmission and song evolution.
 - **Discoveries:** The project demonstrated how whale songs can indicate connectivity across vast oceanic distances, contributing to our understanding of marine mammal communication networks.  
 
-![Humpback Whale Song](/mitchtork/assets/img/for_posts/humpback-song.jpg)
+![Humpback Whale Song](/mitchtork/assets/img/for_posts/humpback-song.jpg)    
 *Figure: Here I am wearing headphones to monitor and record the songs of a nearby humpback whale during our field study off the coast of Puerto Chino.*
 
 ---
@@ -62,7 +62,7 @@ During my four-month study abroad in the enchanting Galapagos Islands in the fal
 - **Methodology:** Examination of species diversity across different levels of rugosity in five beach locations along the Ecuadorian coast, using a standardized quadrant sampling method.
 - **Findings:** The study challenged previous assertions by demonstrating that increased rugosity does not necessarily correlate with higher species diversity. This finding was particularly evident in the mid and high intertidal zones where the variability of rugosity showed minimal effect on the diversity of sessile species.  
 
-![Sea Star](/mitchtork/assets/img/for_posts/intertidal-seastar.jpg)
+![Sea Star](/mitchtork/assets/img/for_posts/intertidal-seastar.jpg)  
 *Figure: Found during our intertidal zone survey, here's me holding a South American Multiradiate Sun Star.*
 
 ---
@@ -76,7 +76,7 @@ During my four-month study abroad in the enchanting Galapagos Islands in the fal
 
 Each project taught me the intricacies of field research and the critical importance of preserving these unique ecosystems. The Galapagos Islands served as a living laboratory where I could witness the profound consequences of natural and human-induced changes on wildlife. These experiences have profoundly shaped my approach to marine science and conservation.  
 
-![Wildlife](/mitchtork/assets/img/for_posts/wildlife-mosaic.png)
+![Wildlife](/mitchtork/assets/img/for_posts/wildlife-mosaic.png)  
 *Figure: This mosaic showcases four distinct species from the Galapagos Islands. Top-left: A hammerhead shark near Kicker Rock off San Cristobal. Top-right: A group of golden rays. Bottom-right: A Galapagos giant tortoise at the Isabela Tortoise Center. Bottom-left: A baby marine iguana resting on an adult, likely a parent, highlighting the diverse and unique wildlife found in the region.*
 
 ---
