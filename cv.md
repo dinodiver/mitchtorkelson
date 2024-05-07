@@ -66,17 +66,17 @@ Anticipated completion concurrent with M.S. degree, focusing on the application 
 **NC Water Resources Research Institute (WRRI) Annual Conference**  
 *Raleigh, NC, March 2024*  
 - Evaluated HawkEye satellite sensors in capturing ocean color imagery for coastal and estuarine environments.  
-[View Poster](https://dinodiver.github.io/mitchtork/assets/pdf/WRRI_poster.pdf)
+[View Poster](https://dinodiver.github.io/mitchtorkelson/assets/pdf/WRRI_poster.pdf)
 
 **CMS Research Showcase**  
 *UNCW, Wilmington, NC, February 2024*  
 - Presented findings to U.S. Secretary of the Interior Deb Haaland and BOEM Director Liz Klein on high-resolution HawkEye data.  
-[View Poster](https://dinodiver.github.io/mitchtork/assets/pdf/cms_summer_23.pdf)
+[View Poster](https://dinodiver.github.io/mitchtorkelson/assets/pdf/cms_summer_23.pdf)
 
 **CMS Research Showcase**  
 *UNCW, Wilmington, NC, April 2023*  
 - Demonstrated capabilities of high-resolution HawkEye data in revealing fine-scale coastal variability.  
-[View Poster](https://dinodiver.github.io/mitchtork/assets/pdf/cms_summer_23.pdf)
+[View Poster](https://dinodiver.github.io/mitchtorkelson/assets/pdf/cms_summer_23.pdf)
 
 **Creighton Undergraduate Research Showcase**  
 *Creighton University, Omaha, NE, May 2019*  
@@ -85,7 +85,7 @@ Anticipated completion concurrent with M.S. degree, focusing on the application 
 **Omaha in the Anthropocene**  
 *The Durham Museum, Omaha, NE, December 2017*  
 - Presented research on the impact of ancient hunting tools on megafaunal populations.  
-[View Poster](https://dinodiver.github.io/mitchtork/assets/pdf/arrowheads_vs_megafauna.pdf)
+[View Poster](https://dinodiver.github.io/mitchtorkelson/assets/pdf/arrowheads_vs_megafauna.pdf)
 
 **Summer Research Institute**  
 *Creighton University, Omaha, NE, August 2017*  

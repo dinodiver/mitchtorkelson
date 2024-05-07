@@ -34,7 +34,7 @@ This research is part of a collaborative effort with the COAST Lab at UNCW. For 
 For a deeper dive into how we conduct in-situ measurements that complement our satellite data analysis, check out our detailed study on the Masonboro Inlet: [In-Situ Sampling in Masonboro](https://dinodiver.github.io/mitchtorkelson/waterquality-masonboro/).  
 
 *This research was presented at several conferences and gatherings, including:*  
-·	*Cape Fear Astronomical Soceity - May 2024, UNCW, Wilmington, NC*  
+·	*Cape Fear Astronomical Society - May 2024, UNCW, Wilmington, NC*  
 ·	*NC Water Resources Research Institute (WRRI) Annual Conference - March 2024, NC State Campus, Raleigh, NC*  
 ·	*CMS Research Showcase - February 2024, UNCW, Wilmington, NC*  
 ·	*CMS Research Showcase - April 2023, UNCW, Wilmington, NC*  
