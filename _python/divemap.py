@@ -30,14 +30,16 @@ for index, row in dive_data.iterrows():
         icon=folium.Icon(icon='tint')
     ).add_to(marker_cluster)
 
-# HTML to display stats
+# HTML to display stats with close button
 html = f"""
-<div style="position: fixed; top: 10px; left: 50%; transform: translateX(-50%);
+<div id="dive-stats" style="position: fixed; top: 10px; left: 50%; transform: translateX(-50%);
             width: auto; padding: 10px 20px; background: rgba(0, 0, 0, 0.85); 
             border-radius: 10px; border: 1px solid #0078A8; box-shadow: 0 2px 4px rgba(0,0,0,0.5);
             z-index: 9999; color: white; font-size: 16px; font-family: Arial, sans-serif;
             text-align: center;">
     <strong>Dive Stats:</strong> {total_dive_count} Dives | {total_dive_time_hours}h {remaining_minutes}m Underwater
+    <button onclick="document.getElementById('dive-stats').style.display='none'" 
+            style="float: right; border: none; background: none; color: white; font-size: 20px; cursor: pointer;">&times;</button>
 </div>
 """
 
