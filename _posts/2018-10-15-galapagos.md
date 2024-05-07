@@ -78,5 +78,3 @@ Each project taught me the intricacies of field research and the critical import
 
 ![Wildlife](/mitchtorkelson/assets/img/for_posts/wildlife-mosaic.png)  
 *Figure: This mosaic showcases four distinct species from the Galapagos Islands. Top-left: A hammerhead shark near Kicker Rock off San Cristobal. Top-right: A group of golden rays. Bottom-left: A Galapagos giant tortoise at the Isabela Tortoise Center. Bottom-right: A baby marine iguana resting on an adult, likely a parent, highlighting the diverse and unique wildlife found in the region.*
-
----

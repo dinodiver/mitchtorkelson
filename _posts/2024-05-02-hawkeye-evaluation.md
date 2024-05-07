@@ -38,5 +38,3 @@ For a deeper dive into how we conduct in-situ measurements that complement our s
 ·	*NC Water Resources Research Institute (WRRI) Annual Conference - March 2024, NC State Campus, Raleigh, NC*  
 ·	*CMS Research Showcase - February 2024, UNCW, Wilmington, NC*  
 ·	*CMS Research Showcase - April 2023, UNCW, Wilmington, NC*  
-
----

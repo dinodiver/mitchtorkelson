@@ -41,5 +41,3 @@ Throughout my internship, my activities ranged from the nursery to the reef, eac
 
 ## Impact and Reflections
 The hands-on experience significantly enhanced my understanding of marine biology and conservation practices. It provided me with a profound appreciation of the complexities involved in coral restoration and the innovative approaches being developed to address these challenges. This internship not only deepened my commitment to marine conservation but also shaped my career path towards advocating for and implementing sustainable marine environmental practices.
-
----

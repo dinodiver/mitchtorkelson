@@ -39,5 +39,3 @@ Alongside my research activities, I had the pleasure of participating in the 14t
 
 ![5k winner](/mitchtorkelson/assets/img/for_posts/5k.jpg)  
 *Figure: Post 5k finish! (From left: Harrison Currin, Me, Bradley Gavrielides).*
-
----
