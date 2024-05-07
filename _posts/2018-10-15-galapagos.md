@@ -36,7 +36,7 @@ During my four-month study abroad in the enchanting Galapagos Islands in the fal
 ### Sea Turtle Research on Species Density
 - **Mentor:** Juan Pablo Muñoz-Pérez, Ph.D.
 - **Focus:** Assessing the impact of environmental factors on sea turtle populations
-- **Activities:** Capturing and tagging turtles, monitoring health and environmental interactions, particularly with marine debris.
+- **Methodology:** Capturing and tagging turtles, monitoring health and environmental interactions, particularly with marine debris.
 - **Results:** This project not only informed conservation strategies but also involved the community in scientific observation, enhancing the collective effort to mitigate environmental threats.  
 
 ![Sea Turtle](/mitchtork/assets/img/for_posts/sea-turtle.jpg)  
