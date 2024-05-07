@@ -34,7 +34,7 @@ During my four-month study abroad in the enchanting Galapagos Islands in the fal
 ---
 
 ### Sea Turtle Research on Species Density
-- **Mentor:** Juan Pablo Muñoz-Pérez
+- **Mentor:** Juan Pablo Muñoz-Pérez, Ph.D.
 - **Focus:** Assessing the impact of environmental factors on sea turtle populations
 - **Activities:** Capturing and tagging turtles, monitoring health and environmental interactions, particularly with marine debris.
 - **Results:** This project not only informed conservation strategies but also involved the community in scientific observation, enhancing the collective effort to mitigate environmental threats.  
@@ -57,7 +57,7 @@ During my four-month study abroad in the enchanting Galapagos Islands in the fal
 ---
 
 ### Intertidal Zone Research on Species Richness
-- **Mentor:** Margarita Brandt  
+- **Mentor:** Margarita Brandt, Ph.D.  
 - **Focus:** Investigating the impact of habitat rugosity on species diversity in rocky intertidal zones.
 - **Methodology:** Examination of species diversity across different levels of rugosity in five beach locations along the Ecuadorian coast, using a standardized quadrant sampling method.
 - **Findings:** The study challenged previous assertions by demonstrating that increased rugosity does not necessarily correlate with higher species diversity. This finding was particularly evident in the mid and high intertidal zones where the variability of rugosity showed minimal effect on the diversity of sessile species.  
