@@ -29,7 +29,7 @@ Preliminary analysis shows that HawkEye's high-resolution sensors provide superi
 The findings from this study underscore the potential of advanced satellite sensors like HawkEye in improving our understanding of complex coastal waters. By providing more accurate and timely data, HawkEye can significantly aid in the management and conservation of aquatic resources. Further research will focus on integrating these insights into broader marine management practices.
 
 ### Collaboration and Resources
-This research is part of a collaborative effort with the COAST Lab at UNCW. For more detailed information on methodologies and ongoing updates, please visit our [GitHub Repository](https://github.com/COAST-Lab/HawkEye_Evaluation).  
+This research is part of a collaborative effort with the COAST Lab at UNCW. For more detailed information on methodologies and ongoing updates, please visit our [GitHub Repository](https://github.com/COAST-Lab/HawkEye_Evaluation){:target="_blank"}.  
 
 For a deeper dive into how we conduct in-situ measurements that complement our satellite data analysis, check out our detailed study on the Masonboro Inlet: [In-Situ Sampling in Masonboro](https://dinodiver.github.io/mitchtorkelson/waterquality-masonboro/).  
 

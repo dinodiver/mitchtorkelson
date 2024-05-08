@@ -9,7 +9,7 @@ categories: research
 ---
 
 ## Introduction
-I interned at the [Coral Restoration Foundation (CRF)](https://www.coralrestoration.org/) in Key Largo, Florida, a leader in active coral restoration. This opportunity allowed me to contribute directly to the conservation and restoration of coral reefs, which are among the most biologically diverse and economically valuable ecosystems on Earth. Given the escalating threats from climate change and human activity, efforts like these are more crucial than ever.
+I interned at the [Coral Restoration Foundation (CRF)](https://www.coralrestoration.org/){:target="_blank"} in Key Largo, Florida, a leader in active coral restoration. This opportunity allowed me to contribute directly to the conservation and restoration of coral reefs, which are among the most biologically diverse and economically valuable ecosystems on Earth. Given the escalating threats from climate change and human activity, efforts like these are more crucial than ever.
 
 ## Mission Overview
 Coral reefs are facing unprecedented threats from climate change, pollution, and overfishing. These threats have led to significant declines in coral health worldwide. At CRF, I was part of a team dedicated to developing and refining techniques for coral restoration, such as nurturing corals in nurseries and the use of photomosaics for reef health assessments, focusing on outplanting corals back into the wild to rebuild and rejuvenate degraded reef systems.
