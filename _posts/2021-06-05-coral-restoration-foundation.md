@@ -41,3 +41,6 @@ Throughout my internship, my activities ranged from the nursery to the reef, eac
 
 ## Impact and Reflections
 The hands-on experience significantly enhanced my understanding of marine biology and conservation practices. It provided me with a profound appreciation of the complexities involved in coral restoration and the innovative approaches being developed to address these challenges. This internship not only deepened my commitment to marine conservation but also shaped my career path towards advocating for and implementing sustainable marine environmental practices.
+
+## Additional Comments
+During my time with the CRF, I met Molly, a fellow CRF intern. We shared a deep commitment to marine conservation and quickly found that our professional passions aligned with personal ones. After dating for a couple of years and supporting each other through various endeavors and challenges, we recently got engaged! This personal milestone has only deepened my commitment to the environmental causes we both care about, reminding me that the journey is as much about the people we meet as it is about the work we do.
