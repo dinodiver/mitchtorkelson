@@ -10,7 +10,7 @@ Focus: Ocean Color Remote Sensing
 *Creighton University, Omaha, Nebraska*  
 Minor: Environmental Science
 
-**STUDY ABROAD, Aug 2018 – Dec 2018**  
+**Study Abroad, Aug 2018 – Dec 2018**  
 *Universidad San Francisco de Quito-Galápagos, San Cristóbal Island, Galápagos Islands, Ecuador*  
 Focus: Marine Biology
 
