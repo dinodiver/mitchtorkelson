@@ -69,7 +69,7 @@ Anticipated completion concurrent with M.S. degree, focusing on the application 
 ---
 
 ### PEER-REVIEWED PUBLICATIONS
-Wu, F., Tong, C., Torkelson, M., Wang, Y. (2020). Evolution of shoals and vegetation of Jiuduansha in the Changjiang River Estuary of China in the last 30 years. Acta Oceanologica Sinica. 39. 71-78. [doi.org/10.1007/s13131-020-1636-7](https://doi.org/10.1007/s13131-020-1636-7).  
+Wu, F., Tong, C., Torkelson, M., Wang, Y. (2020). Evolution of shoals and vegetation of Jiuduansha in the Changjiang River Estuary of China in the last 30 years. Acta Oceanologica Sinica. 39. 71-78. [doi.org/10.1007/s13131-020-1636-7](https://doi.org/10.1007/s13131-020-1636-7){:target="_blank"}.  
 
 ---
 
@@ -80,7 +80,7 @@ Wu, F., Tong, C., Torkelson, M., Wang, Y. (2020). Evolution of shoals and vegeta
 
 **NC Water Resources Research Institute (WRRI) Annual Conference**  
 *Raleigh, NC, March 2024*  
-·	Evaluated HawkEye satellite sensors in capturing ocean color imagery for coastal and estuarine environments. Received Honorable Mention for the poster presentation. [Read more about the award](https://wrri.ncsu.edu/conference-wrap-up-poster-presentations-lightning-talk-winners-and-more/){:target="_blank"}.  
+·	Evaluated HawkEye satellite sensors in capturing ocean color imagery for coastal and estuarine environments. Received Honorable Mention for the poster presentation. [Read more](https://wrri.ncsu.edu/conference-wrap-up-poster-presentations-lightning-talk-winners-and-more/){:target="_blank"}.  
 [View Poster](https://dinodiver.github.io/mitchtorkelson/assets/pdf/WRRI_poster.pdf){:target="_blank"}
 
 **CMS Research Showcase**  
