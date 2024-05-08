@@ -75,8 +75,9 @@ Anticipated completion concurrent with M.S. degree, focusing on the application 
 
 **NC Water Resources Research Institute (WRRI) Annual Conference**  
 *Raleigh, NC, March 2024*  
-·	Evaluated HawkEye satellite sensors in capturing ocean color imagery for coastal and estuarine environments.  
+·	Evaluated HawkEye satellite sensors in capturing ocean color imagery for coastal and estuarine environments. Received Honorable Mention for the poster presentation. [Read more about the award](https://wrri.ncsu.edu/conference-wrap-up-poster-presentations-lightning-talk-winners-and-more/).
 [View Poster](https://dinodiver.github.io/mitchtorkelson/assets/pdf/WRRI_poster.pdf)
+
 
 **CMS Research Showcase**  
 *UNCW, Wilmington, NC, February 2024*  
