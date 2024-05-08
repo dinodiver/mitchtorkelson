@@ -68,6 +68,11 @@ Anticipated completion concurrent with M.S. degree, focusing on the application 
 
 ---
 
+### PEER-REVIEWED PUBLICATIONS
+Wu, F., Tong, C., Torkelson, M., Wang, Y. (2020). Evolution of shoals and vegetation of Jiuduansha in the Changjiang River Estuary of China in the last 30 years. Acta Oceanologica Sinica. 39. 71-78, [doi.org/10.1007/s13131-020-1636-7] (https://doi.org/10.1007/s13131-020-1636-7).  
+
+---
+
 ### CONFERENCES, PRESENTATIONS, AND WORKSHOPS
 **Cornell Satellite Remote Sensing Workshop**  
 *Cornell University, Summer 2023*  
