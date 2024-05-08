@@ -9,12 +9,13 @@
 </script> <!-- End Analytics
 -->
 
-<!-- Google tag (gtag.js), added for Google Analytics replacing the above, 9-Sep-22 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-W73VXWKGZ1"></script>
+<!-- Google tag (gtag.js) for Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-W73VXWKGZ1');
+  gtag('config', '{{ site.analytics }}');
 </script>
+
