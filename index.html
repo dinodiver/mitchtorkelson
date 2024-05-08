@@ -11,29 +11,14 @@ Although my marine science journey began far from any ocean, at Creighton Univer
 Beyond the ocean's depths, I relish the great outdoors—whether that's kayaking, hiking, or jogging through nature's trails. You can also find me relaxing in my hammock with a book, or playing a game of chess. [Play a game with me](https://www.chess.com/member/dinodiver4){:target="_blank"}!
 
 This website serves as a hub for all my adventures and professional insights:  
-· **Research:** Discover the studies I've been involved in that have influenced my perspectives on marine conservation.  
-· **CV:** A comprehensive look at my educational and professional journey.  
+·	**Research:** Discover the studies I've been involved in that have influenced my perspectives on marine conservation.  
+·	**CV:** A comprehensive look at my educational and professional journey.  
 
-Check out this fun interactive globe showcasing all the dive sites I've explored around the world:
-<div id="globeViz" style="width: 100%; height: 600px;"></div>
-<script src="https://unpkg.com/three@0.126.1/build/three.min.js"></script>
-<script src="https://unpkg.com/globe.gl"></script>
-<script>
-// JavaScript to initialize the globe and load dive data
-const dives = [
-    { lat: 41.387999, lng: -95.049590, name: 'Atlantic Quarry', date: '7/31/18', depth: 25, time: 20 },
-    { lat: -1.942460, lng: -80.788017, name: 'Reserva Marina El Pelado, Ecuador', date: '8/26/18', depth: 61, time: 40 },
-    // More dives here...
-];
-const globe = Globe()(document.getElementById('globeViz'))
-    .globeImageUrl('//unpkg.com/three-globe/example/img/earth-night.jpg')
-    .pointsData(dives)
-    .pointAltitude(0.05)
-    .pointColor(() => 'deepskyblue')
-    .pointLabel(dive => `<strong>${dive.name}</strong><br>Date: ${dive.date}<br>Depth: ${dive.depth} ft<br>Time: ${dive.time} min`);
-globe.cameraDistanceRadiusScale(3);
-</script>
-
+Check out this fun interactive map showcasing all the dive sites I've explored around the world:
+<div class="resp-container">
+    <iframe class="resp-iframe" src="{{ '/assets/files/DiveLog.html' | prepend: site.baseurl }}" title="Mitch's Dive Log"></iframe>
+</div>
+    
 ## Let's Connect
 I am always open to discussing potential collaborations, research, job opportunities, or simply sharing insights into marine conservation. Feel free to reach out to connect!
     
