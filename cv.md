@@ -68,7 +68,11 @@ Anticipated completion concurrent with M.S. degree, focusing on the application 
 
 ---
 
-### CONFERENCES AND PRESENTATIONS
+### CONFERENCES, PRESENTATIONS, AND WORKSHOPS
+**Cornell Satellite Remote Sensing Workshop**  
+*Cornell University, Summer 2023*  
+·	Participated in an intensive two-week training workshop designed to impart practical skills for acquiring, analyzing, and visualizing large data sets derived from various ocean satellite sensors. The curriculum emphasized Python programming and NASA’s SeaDAS software, covering satellite data sets such as SeaWiFS, MODIS, VIIRS, and HawkEye.  
+
 **NC Water Resources Research Institute (WRRI) Annual Conference**  
 *Raleigh, NC, March 2024*  
 ·	Evaluated HawkEye satellite sensors in capturing ocean color imagery for coastal and estuarine environments.  
