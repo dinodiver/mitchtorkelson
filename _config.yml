@@ -20,7 +20,8 @@ social-linkedin: mitch-torkelson # add your Linkedin handle
 social-email: mitchtorkelson@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mitchtork # add your discus identifier
+disqus_shortname: mitchtorkelson
+
 
 # Tracker
 analytics:  G-C4FD9YVF04 # Google Analytics
