@@ -104,4 +104,6 @@ Wu, F., Tong, C., Torkelson, M., Wang, Y. (2020). Evolution of shoals and vegeta
 
 **Summer Research Institute**  
 *Creighton University, Omaha, NE, August 2017*  
-·	Explored gentrification impacts in the Bemis and Gifford Park neighborhoods.
+·	Explored gentrification impacts in the Bemis and Gifford Park neighborhoods.  
+
+[Download CV as PDF](https://dinodiver.github.io/mitchtorkelson/assets/pdf/CV.pdf)
