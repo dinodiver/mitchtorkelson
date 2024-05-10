@@ -106,5 +106,16 @@ Wu, F., Tong, C., Torkelson, M., Wang, Y. (2020). Evolution of shoals and vegeta
 *Creighton University, Omaha, NE, August 2017*  
 ·	Explored gentrification impacts in the Bemis and Gifford Park neighborhoods.  
 
-[![Download CV](https://dinodiver.github.io/mitchtorkelson/assets/icons/download_icon.png)](https://dinodiver.github.io/mitchtorkelson/assets/pdf/CV.pdf) **Download CV as PDF**  
-[![Download Resume](https://dinodiver.github.io/mitchtorkelson/assets/icons/download_icon.png)](https://dinodiver.github.io/mitchtorkelson/assets/pdf/Resume.pdf) **Download Resume as PDF** 
+<style>
+.download-icon {
+  width: 32px; /* Width of the visible part of the icon */
+  height: 32px; /* Height of the visible part of the icon */
+  background-image: url('https://dinodiver.github.io/mitchtorkelson/assets/icons/download_icon.png');
+  background-position: -10px -10px; /* Adjust these values based on where the icon is located in the image */
+  background-size: 100px 100px; /* Adjust based on the total size of the original image */
+  display: inline-block;
+}
+</style>
+
+<a href="https://dinodiver.github.io/mitchtorkelson/assets/pdf/CV.pdf" class="download-icon" aria-label="Download CV as PDF"></a>
+
