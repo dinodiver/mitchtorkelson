@@ -1,25 +1,4 @@
-For the nicely rendered version of my website, please visit [supscientist.github.io](https://supscientist.github.io)
-
-TODO:
-- Update Research page with current projects
-- Check dates for about and resume pages
-- Add lab announcements
-- Find better format for lab members page
-- ~Add navigation (added to left of web/top of mobile)~
-- ~Add "sandbox" with, e.g., leaflet garmin mapping~
-- ~Link to SFEI mooring report~
-- Add RMarkdown file to GitHub
-
-ALWAYS:
-- Update CV
-- Update press
-- Make sure links to about and resume stay valid since I keep changing filenames...
-
-
-I forked Flexible-Jekyll from a repo quite generously provided by [artemsheludko](https://github.com/artemsheludko).
-I'm leaving their original README.md intact below for this GitHub repo but changing the content of just about every other file here. If you want more info or to use this theme, I'd highly recommend you
-go back to their original repo (links below) and follow their instructions as I've removed
-(incidentally/accidentally) much of their great documentation.
+For the nicely rendered version of my website, please visit [https://dinodiver.github.io/mitchtorkelson/](https://dinodiver.github.io/mitchtorkelson/)
 
 # Flexible-Jekyll is a simple and clean theme for Jekyll
 
