@@ -12,12 +12,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: # add your name (shows up better without due to name in image)
 author-img: Torkelson_Headshot.jpg # add your photo
-about-author: M.S. of Marine Sciene student at UNCW # add description
-social-twitter: dinodiver_ # add your Twitter handle
-social-facebook: mitchtorkelson # add your Facebook handle
-social-github: dinodiver # add your Github handle
-social-linkedin: mitch-torkelson # add your Linkedin handle
-social-email: mitchtorkelson@gmail.com # add your Email address
+about-author: M.S. of Marine Science student at UNCW # add description
+social-twitter: dinodiver_
+social-facebook: mitchtorkelson
+social-github: dinodiver
+social-linkedin: mitch-torkelson
+social-email: mitchtorkelson@gmail.com
 
 # Disqus
 disqus_shortname: mitchtorkelson
