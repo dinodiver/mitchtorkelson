@@ -9,7 +9,7 @@ categories: research
 ---
 
 ### Introduction
-This project at UNCW evaluates the efficacy of the HawkEye satellite sensor in capturing ocean color (OC) imagery, specifically focusing on the Cape Fear River Estuary (CFRE) in southeastern North Carolina. Coastal and estuarine environments, which are vital for biodiversity and local economies, present unique challenges for remote sensing due to their optically complex waters. This research involves detailed comparisons of in-situ measurements with data from HawkEye and other satellite sensors to refine and enhance marine conservation and management strategies.
+This ongoing project at UNCW evaluates the efficacy of the HawkEye satellite sensor in capturing ocean color (OC) imagery, specifically focusing on the Cape Fear River Estuary (CFRE) in southeastern North Carolina. Coastal and estuarine environments, which are vital for biodiversity and local economies, present unique challenges for remote sensing due to their optically complex waters. This research involves detailed comparisons of in-situ measurements with data from HawkEye and other satellite sensors to refine and enhance marine conservation and management strategies.
 
 ### Methodology
 Our approach leverages a multi-platform strategy that combines HawkEye satellite data with an array of other satellite-derived and in-situ "sea-truthing" chlorophyll a measurements from the CFRE. This integration allows us to assess the accuracy and utility of HawkEye in estimating chlorophyll concentrations, which are crucial for understanding estuarine dynamics.
@@ -19,14 +19,14 @@ Our approach leverages a multi-platform strategy that combines HawkEye satellite
 
 Utilizing a 3D in-situ dataset for satellite matchup analysis can enhance satellite analysis since satellite sensors often provide a surface-level perspective, which can limit understanding of vertical variations within water bodies. Our 3D approach captures data across different depths, providing a comprehensive view that is essential for accurately interpreting satellite imagery. This depth-resolved data enables enhanced calibration and validation of satellite sensors, leading to improved accuracy in mapping and monitoring aquatic environments. The 3D dataset not only aids in understanding the spatial distribution of water quality parameters but also supports the development of models that predict ecological changes within these complex systems.
 
-### Results
-Preliminary analysis shows that HawkEye's high-resolution sensors provide superior clarity and detail in OC data compared to traditional satellite systems. The data correlated well with in-situ measurements, particularly in areas closer to river discharges where sediment concentration changes rapidly. Enhanced imaging capabilities have allowed for more accurate detection of algal blooms and sediment plumes, critical for timely environmental response.
+### Preliminary Results
+Our initial analysis indicates that HawkEye's high-resolution sensors provide superior clarity and detail in OC data compared to traditional satellite systems. The data correlated well with in-situ measurements, particularly in areas closer to river discharges where sediment concentration changes rapidly. Enhanced imaging capabilities have allowed for more accurate detection of algal blooms and sediment plumes, critical for timely environmental response. It's important to note that these results are preliminary and subject to further validation and refinement as more data becomes available.
 
 ![matchup metric comparison](/mitchtorkelson/assets/img/for_posts/metric_mosaic.png)
 *Figure: Statistical metric comparison across satellite sensor types at different in-situ depth ranges for 1x1 pixel size windows.*
 
-### Implications
-The findings from this study underscore the potential of advanced satellite sensors like HawkEye in improving our understanding of complex coastal waters. By providing more accurate and timely data, HawkEye can significantly aid in the management and conservation of aquatic resources. Further research will focus on integrating these insights into broader marine management practices.
+### Implications and Future Work
+The preliminary findings from this study underscore the potential of advanced satellite sensors like HawkEye in improving our understanding of complex coastal waters. By providing more accurate and timely data, HawkEye can significantly aid in the management and conservation of aquatic resources. Ongoing research will focus on further integrating these insights into broader marine management practices and continuing to validate and refine our findings.
 
 ### Collaboration and Resources
 This research is part of a collaborative effort with the COAST Lab at UNCW. For more detailed information on methodologies and ongoing updates, please visit our [GitHub Repository](https://github.com/COAST-Lab/HawkEye_Evaluation){:target="_blank"}.  
