@@ -1,6 +1,12 @@
 ---
 layout: cv
 ---
+
+<div style="text-align: right;">
+    <a href="https://dinodiver.github.io/mitchtorkelson/assets/pdf/CV.pdf" target="_blank">Download CV</a> | 
+    <a href="https://dinodiver.github.io/mitchtorkelson/assets/pdf/Resume.pdf" target="_blank">Download Resume</a>
+</div>
+
 ### EDUCATION
 **M.S. Marine Science – Expected Aug 2024**  
 *University of North Carolina-Wilmington, Wilmington, NC*  
@@ -13,6 +19,7 @@ Minor: Environmental Science
 **Study Abroad, Aug 2018 – Dec 2018**  
 *Universidad San Francisco de Quito-Galápagos, San Cristóbal Island, Galápagos Islands, Ecuador*  
 Focus: Marine Biology
+
 
 ---
 
@@ -105,6 +112,3 @@ Wu, F., Tong, C., Torkelson, M., Wang, Y. (2020). Evolution of shoals and vegeta
 **Summer Research Institute**  
 *Creighton University, Omaha, NE, August 2017*  
 ·	Explored gentrification impacts in the Bemis and Gifford Park neighborhoods.  
-
-[Download CV](https://dinodiver.github.io/mitchtorkelson/assets/pdf/CV.pdf){:target="_blank"}  
-[Download Resume](https://dinodiver.github.io/mitchtorkelson/assets/pdf/Resume.pdf){:target="_blank"}  
