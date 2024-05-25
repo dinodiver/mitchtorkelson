@@ -39,7 +39,7 @@ html = f"""
             border-radius: 10px; border: 1px solid #0078A8; box-shadow: 0 2px 4px rgba(0,0,0,0.5);
             z-index: 9999; color: white; font-size: 16px; font-family: Arial, sans-serif;
             text-align: center;">
-    <strong>Dive Stats:</strong> {total_dive_count} Dives | {total_dive_time_hours}h {remaining_minutes}m Underwater
+    <strong>Dive Stats:</strong> {total_dive_count} Dives | {total_dive_time_days}d {remaining_hours}h {remaining_minutes}m Underwater
     <button onclick="document.getElementById('dive-stats').style.display='none'" 
             style="float: right; border: none; background: none; color: white; font-size: 20px; cursor: pointer;">&times;</button>
 </div>
