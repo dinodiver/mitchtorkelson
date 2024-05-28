@@ -19,10 +19,10 @@ Entering the water, I felt a mix of anticipation and exhilaration. The visibilit
 As we continued our dive, we encountered several sharks, including lemon sharks and bull sharks. The experience of being so close to these powerful animals was both humbling and awe-inspiring. The sharks were graceful and uninterested in us, going about their business as we observed from a respectful distance.
 
 ![Bull Shark](/mitchtorkelson/assets/img/for_posts/sharkdiving-bull.jpg)  
-*Caption: A thrilling moment encountering a bull shark during our dive in Jupiter, Florida.*  
+*A thrilling moment encountering a bull shark during our dive in Jupiter, Florida.*  
 
 ![Lemon Shark](/mitchtorkelson/assets/img/for_posts/sharkdiving-lemon.jpg)  
-*Caption: A lemon shark during our dive with remora fish on its belly.*  
+*A lemon shark during our dive with remora fish on its belly.*  
 
 ### Watch My Shark Diving Adventure
 
