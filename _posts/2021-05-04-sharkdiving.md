@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shark Diving Adventure in Jupiter, Florida"
-date: 2023-08-15 00:00:00 -0700
+date: 2021-05-04 00:00:00 -0700
 description: "My thrilling shark diving experience in Jupiter, Florida with Calypso Dive Charters."
 img: sharkdiving.jpg
 tags: [shark diving, scuba, adventure, Florida, Calypso Dive Charters]
