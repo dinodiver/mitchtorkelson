@@ -1437,6 +1437,10 @@ a.newer-posts:hover {
   .contact-title, .copyright {
     display: none;
   }
+  .post {
+    width: 100%;
+    margin: 0 0 1.5rem;
+  }
 }
 
 /* Extra Small Devices, Phones */
