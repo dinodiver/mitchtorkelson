@@ -4,7 +4,7 @@ layout: main
 <link rel="shortcut icon" href="{{ "/assets/img/favicon/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
 
 <article class="article-page">
-  <div class="page-content">
+  <div class="page-content main-container"> <!-- Add main-container class here -->
     {% if page.img %}
     <div class="page-cover-image">
       <img src="{{ '/assets/img/for_posts/' | append: page.img | prepend: site.baseurl }}" alt="{{ page.title }}">

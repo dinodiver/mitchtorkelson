@@ -1217,12 +1217,20 @@ a.newer-posts:hover {
   text-transform: uppercase;
 }
 
+/* Main container for page content */
+.main-container {
+  max-width: 95vw;
+  margin: 0 auto; /* Centers the container */
+  padding: 0 20px; /* Adds some padding for better appearance */
+  box-sizing: border-box; /* Ensures padding is included in the width */
+}
+
 .page-cover-image {
   position: relative;
   padding: 0;
   margin: 0;
-  max-height: 500px;
-  max-width: 95vw; /* Added max-width property */
+  max-height: 100%;
+  max-width: 100%; /* Added max-width property */
   background-color: #fafafa;
   overflow: hidden;
 }
