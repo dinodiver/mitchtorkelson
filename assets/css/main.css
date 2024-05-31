@@ -1217,20 +1217,12 @@ a.newer-posts:hover {
   text-transform: uppercase;
 }
 
-/* Main container for page content */
-.main-container {
-  max-width: 100%;
-  margin: 0 auto; /* Centers the container */
-  padding: 0 5px; /* Adds some padding for better appearance */
-  box-sizing: border-box; /* Ensures padding is included in the width */
-}
-
 .page-cover-image {
   position: relative;
   padding: 0;
   margin: 0;
-  max-height: 100%;
-  max-width: 100%; /* Added max-width property */
+  max-height: 500px;
+  max-width: 95vw;
   background-color: #fafafa;
   overflow: hidden;
 }
@@ -1500,20 +1492,16 @@ a.newer-posts:hover {
 
 /* Video container styling for better layout control */
 .video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-  background: #000;
-  margin: 20px 0; /* Adjust as needed */
+  max-width: 640px; /* Adjust this value based on your content area size */
+  margin: 20px auto; /* Centers the video and adds space above and below */
+  overflow: hidden; /* Optional: prevents content from overflowing */
 }
 
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
+.video-container video {
+  width: 100%; /* Makes the video responsive */
+  height: auto;  /* Maintain aspect ratio */
+  max-width: 640px; /* Adjust max width as needed */
+  display: block; /* Align video properly */
+  margin: 0 auto; /* Center align the video */
 }
+
