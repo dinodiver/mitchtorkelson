@@ -78,6 +78,14 @@ Certification demonstrating proficiency in dive leadership, instruction, and und
 · Collaborated with a multidisciplinary team on research projects aimed at improving coral restoration techniques and outcomes.  
 · Engaged with local communities and stakeholders to promote awareness and support for coral conservation initiatives.
 
+**Aquatic Weed Removal Specialist, Apr 2020 - Sept 2020**  
+*Dive Guys Aquatic Weed Removal, Minneapolis, MN*  
+· Performed aquatic weed removal for lakefront property owners, ensuring clear and aesthetically pleasing waterfronts.  
+· Operated SCUBA equipment effectively to dive and remove underwater vegetation.  
+· Collaborated with team members to plan and execute efficient weed removal strategies.  
+· Provided training and guidance to new divers on SCUAB diving and aquatic weed pulling techniques.  
+· Worked long hours in the sun hauling heavy loads of weeds, demonstrating resilience in physically demanding conditions.  
+
 **Substitute Teacher, Aug 2019 - Mar 2020**  
 *Smithville High School, Smithville, MO*  
 · Fulfilled short-term and long-term teaching requirements for K-12, continuing education and reinforcing core concepts.  
