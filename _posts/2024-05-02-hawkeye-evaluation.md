@@ -9,7 +9,7 @@ categories: research
 ---
 
 ### Introduction
-This project at UNCW evaluates the efficacy of the HawkEye satellite sensor in capturing ocean color (OC) imagery, specifically focusing on the Cape Fear River Estuary (CFRE) in southeastern North Carolina. Coastal and estuarine environments, which are vital for biodiversity and local economies, present unique challenges for remote sensing due to their optically complex waters. This research involves detailed comparisons of in-situ measurements with data from HawkEye and other satellite sensors to refine and enhance marine conservation and management strategies.
+This project at UNCW evaluates the efficacy of satellite sensors in capturing ocean color (OC) imagery, focusing on the Cape Fear River Estuary (CFRE) in southeastern North Carolina. Coastal and estuarine environments, which are vital for biodiversity and local economies, present unique challenges for remote sensing due to their optically complex waters. This research involves detailed comparisons of in-situ measurements with data from the SeaHawk-HawkEye and other satellite sensors to enhance marine conservation and management strategies.
 
 ![Study Site](/mitchtorkelson/assets/img/for_posts/studysite_mosaic_presentation.png)  
 *Sampling overview of the Cape Fear River Estuary and Masonboro Inlet Area we collected in-situ water quality measurements with the R/V Cape Fear (transect lines) and where we acquired satellite-derived measurements*
@@ -32,7 +32,7 @@ During the study period from May 5 to May 7, we observed variations in environme
 The analysis of satellite imagery provided a comprehensive view of the study site. The SeaHawk-HawkEye sensor offered high spatial resolution, revealing detailed patterns in water quality parameters. Our matchup analysis showed notable discrepancies between in-situ and satellite-derived Chl a data, primarily due to differences in sensor resolution, environmental variability, and the temporal gap between data acquisition between in-situ and satellite-derived datasets. Low R-squared scores indicate poor model fit between the sensors, suggesting the water column had significantly changed over the 48-hour window.
 
 ![matchup metric comparison](/mitchtorkelson/assets/img/for_posts/metric_mosaic.png)
-*Figure: Statistical metric comparison across satellite sensor types at different in-situ depth ranges for 1x1 pixel size windows.*
+*Statistical metric comparison across satellite sensor types at different in-situ depth ranges for 1x1 pixel size windows.*
 
 ### Research Findings
 The integration of in-situ measurements with satellite imagery revealed several key findings:
@@ -41,7 +41,9 @@ The integration of in-situ measurements with satellite imagery revealed several 
 - **Enhanced Accuracy**: The multi-sensor strategy proved crucial in providing a more comprehensive understanding of coastal dynamics, demonstrating variability and complexity in coastal water quality monitoring.
 
 ### Implications and Future Work
-The preliminary findings from this study underscore the potential of advanced satellite sensors like HawkEye in improving our understanding of complex coastal waters. By providing more accurate and timely data, HawkEye can significantly aid in the management and conservation of aquatic resources. Ongoing research will focus on further integrating these insights into broader marine management practices and continuing to validate and refine our findings.
+The findings from this study underscore the potential of advanced satellite sensors like HawkEye in improving our understanding of complex coastal waters. By providing more accurate and timely data, HawkEye can significantly aid in the management and conservation of aquatic resources. 
+
+We recommend future research to investigate the effects of environmental changes on sensor performance and to explore new technologies like the Ocean Color Instrument (OCI) on the Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) or the Operational Land Imager (OLI) on Landsat 8/9, which could significantly enhance the temporal and spatial resolution of satellite data. Studies focusing on the real-time integration of multi-sensor data for monitoring and predictive modeling of estuarine health will be particularly beneficial.
 
 ### Collaboration and Resources
 This research is part of a collaborative effort with the COAST Lab at UNCW. For more detailed information on methodologies and ongoing updates, please visit our [GitHub Repository](https://github.com/COAST-Lab/HawkEye_Evaluation){:target="_blank"}.  
@@ -54,6 +56,7 @@ Watch the detailed presentation of this research in my thesis defense video belo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n_ooO1NqXgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *This research was presented at several conferences and gatherings, including:*  
+·	*CMS Thesis Defense - July 2024, UNCW, Wilmington, NC*  
 ·	*Cape Fear Astronomical Society - May 2024, UNCW, Wilmington, NC*  
 ·	*NC Water Resources Research Institute (WRRI) Annual Conference - March 2024, NC State Campus, Raleigh, NC*  
 ·	*CMS Research Showcase - February 2024, UNCW, Wilmington, NC*  

@@ -8,7 +8,7 @@ layout: cv
 </div>
 
 ### EDUCATION
-**M.S. Marine Science – Expected Aug 2024**  
+**M.S. Marine Science – July 2024**  
 *University of North Carolina-Wilmington, Wilmington, NC*  
 Focus: Ocean Color Remote Sensing
 
@@ -23,17 +23,17 @@ Focus: Marine Biology
 ---
 
 ### CERTIFICATIONS
-**GISP (Geographic Information Systems Professional) – Expected Aug 2024**  
-*GIS Certification Institute*  
-Anticipated completion concurrent with M.S. degree, demonstrating proficiency in geospatial data analysis, project management, and ethical GIS practices.
-
-**GEOINT (Geospatial Intelligence) Certification – Expected Aug 2024**  
+**GEOINT (Geospatial Intelligence) Certification – July 2024**  
 *US Geospatial Intelligence Foundation (USGIF)*  
-Anticipated completion concurrent with M.S. degree, focusing on the application of geospatial intelligence in national security and environmental monitoring.
+Certification demonstrating the successful completion of training in geospatial intelligence (GEOINT), showcasing proficiency in analyzing and interpreting geographic information for intelligence purposes.
+
+**Cornell Satellite Remote Sensing Training Program – June 2023**  
+*Cornell University*  
+Certification demonstrating the successful completion of specialized training in satellite remote sensing techniques, including advanced skills and knowledge in oceanographic data analysis.
 
 **SCUBA Divemaster – Dec 2021**  
 *Professional Association of Diving Instructors (PADI)*  
-Certification demonstrating proficiency in dive leadership, instruction, and underwater safety.
+Certification demonstrating the successful completion of the PADI Divemaster program, displaying proficiency in supervising dive activities, assissting with diver training, and underwater safety.
 
 ---
 
@@ -46,7 +46,7 @@ Certification demonstrating proficiency in dive leadership, instruction, and und
 · Collaborated with cross-functional teams to deliver geospatial insights and solutions tailored to project requirements.  
 · Developed and maintained GIS datasets, ensuring data accuracy and integrity for various applications.
 
-**Graduate Research Assistant, Aug 2022 - Present**  
+**Graduate Research Assistant, Aug 2022 - July 2024**  
 *University of North Carolina-Wilmington, Wilmington, NC*  
 · Conducted a comparative study on the accuracy of HawkEye ocean color imagery against in-situ measurements.  
 · Developed and maintained analytical models for environmental data analysis, significantly improving the efficiency and accuracy of data interpretation.  
@@ -110,9 +110,9 @@ Wu, F., Tong, C., Torkelson, M., Wang, Y. (2020). Evolution of shoals and vegeta
 ---
 
 ### CONFERENCES, PRESENTATIONS, AND WORKSHOPS
-**Cornell Satellite Remote Sensing Workshop**  
+**Cornell Satellite Remote Sensing Training Program**  
 *Cornell University, Summer 2023*  
-· Participated in an intensive two-week training workshop designed to impart practical skills for acquiring, analyzing, and visualizing large data sets derived from various ocean satellite sensors. The curriculum emphasized Python programming and NASA’s SeaDAS software, covering satellite data sets such as SeaWiFS, MODIS, VIIRS, and HawkEye.  
+· Participated in an intensive two-week training program designed to impart practical skills for acquiring, analyzing, and visualizing large data sets derived from various ocean satellite sensors. The curriculum emphasized Python programming and NASA’s SeaDAS software, covering satellite data sets such as SeaWiFS, MODIS, VIIRS, and HawkEye.  
 
 **NC Water Resources Research Institute (WRRI) Annual Conference**  
 *Raleigh, NC, March 2024*  
